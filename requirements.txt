@@ -1,0 +1,4 @@
+# FILE: requirements.txt
+requests
+beautifulsoup4
+lxml
