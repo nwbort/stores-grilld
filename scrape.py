@@ -9,8 +9,6 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 BASE_URL = "https://grilld.com.au"
 RESTAURANTS_LIST_URL = urljoin(BASE_URL, "/restaurants")
 OUTPUT_FILE = "stores.json"
-# Number of parallel threads to use for scraping store pages.
-# Adjust this based on your network and the server's tolerance. 10 is a safe start.
 MAX_WORKERS = 10 
 
 def get_store_urls():
@@ -66,13 +64,15 @@ def scrape_store_page(url):
         return None
 
     store_info = None
-    for item in nuxt_data:
-        if isinstance(item, dict) and 'restaurantId' in item:
-            store_info = item
-            break
+    try:
+        if len(nuxt_data) > 1 and isinstance(nuxt_data[1], dict):
+             store_info = nuxt_data[1].get("state", {}).get("restaurant", {}).get("restaurant")
+    except (IndexError, KeyError, AttributeError) as e:
+        print(f"  -> Error navigating JSON structure on {url}: {e}")
+        return None
             
-    if not store_info:
-        print(f"  -> Error: Could not find store data object in __NUXT_DATA__ on {url}")
+    if not store_info or not isinstance(store_info, dict):
+        print(f"  -> Error: Could not find valid store data object in __NUXT_DATA__ on {url}")
         return None
 
     description_copy = (store_info.get('description') or {}).get('copy')
@@ -89,8 +89,6 @@ def scrape_store_page(url):
         'longitude': store_info.get('longitude'),
         'url': url,
     }
-    # This print statement is now less descriptive of progress, but confirms extraction
-    print(f"  -> Extracted: {data['name']}")
     return data
 
 def main():
@@ -106,26 +104,26 @@ def main():
 
     all_stores_data = []
     
-    # Use ThreadPoolExecutor to scrape pages in parallel
     with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
-        # Create a future for each URL. A future is a placeholder for a result that will exist later.
         future_to_url = {executor.submit(scrape_store_page, url): url for url in store_urls}
         
         total_urls = len(store_urls)
+        completed_count = 0
         print(f"\nScraping {total_urls} store pages with up to {MAX_WORKERS} parallel workers...")
 
-        # As each future completes, process its result
-        for i, future in enumerate(as_completed(future_to_url), 1):
+        for future in as_completed(future_to_url):
+            completed_count += 1
             store_data = future.result()
             if store_data:
                 all_stores_data.append(store_data)
-            
-            # Print progress
-            print(f"Progress: {i}/{total_urls} pages processed.", end='\r')
+                print(f"Progress: {completed_count}/{total_urls} | Extracted: {store_data.get('name')}")
+            else:
+                url = future_to_url[future]
+                print(f"Progress: {completed_count}/{total_urls} | Failed to extract data for {url}")
 
-    print("\n" + "="*30) # Newline after the progress indicator
 
-    # Sort stores alphabetically by name for a consistent output file
+    print("\n" + "="*30)
+
     all_stores_data.sort(key=lambda x: x.get('name') or '')
 
     end_time = time.time()
@@ -134,7 +132,6 @@ def main():
     print(f"Successfully scraped data for {len(all_stores_data)} out of {len(store_urls)} stores.")
     print(f"Total execution time: {duration:.2f} seconds.")
     
-    # Save the final list of store data to stores.json
     try:
         with open(OUTPUT_FILE, 'w', encoding='utf-8') as f:
             json.dump(all_stores_data, f, indent=2, ensure_ascii=False)
