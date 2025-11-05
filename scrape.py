@@ -2,8 +2,7 @@
 import requests
 import json
 import time
-import os
-import threading
+from datetime import datetime
 from bs4 import BeautifulSoup
 from urllib.parse import urljoin
 from concurrent.futures import ThreadPoolExecutor, as_completed
@@ -12,20 +11,12 @@ BASE_URL = "https://grilld.com.au"
 RESTAURANTS_LIST_URL = urljoin(BASE_URL, "/restaurants")
 OUTPUT_FILE = "stores.json"
 MAX_WORKERS = 10
-DEBUG_DIR = "debug_html"
-
-# --- START: Thread-safe debug flag ---
-# A lock to ensure only one thread can modify the flag at a time.
-_debug_lock = threading.Lock()
-# The flag itself. Once set to True, no more debug files will be saved.
-_debug_file_saved = False
-# --- END: Thread-safe debug flag ---
 
 def get_store_urls():
     """Fetches the main restaurants page and extracts all individual store URLs."""
     print(f"Fetching store list from {RESTAURANTS_LIST_URL}...")
     try:
-        response = requests.get(RESTAURANTS_LIST_URL)
+        response = requests.get(RESTAURANTS_LIST_URL, timeout=20)
         response.raise_for_status()
     except requests.exceptions.RequestException as e:
         print(f"Error fetching store list: {e}")
@@ -46,28 +37,11 @@ def get_store_urls():
     print(f"Found {len(urls)} unique store URLs.")
     return sorted(list(urls))
 
-def save_debug_html(url, content):
-    """Saves the HTML content of the FIRST failed page for debugging."""
-    global _debug_file_saved
-    
-    # Use a lock to check and set the flag atomically (thread-safe).
-    with _debug_lock:
-        if _debug_file_saved:
-            return # A debug file has already been saved by another thread.
-        
-        try:
-            os.makedirs(DEBUG_DIR, exist_ok=True)
-            slug = url.strip('/').split('/')[-1]
-            filename = os.path.join(DEBUG_DIR, f"debug_{slug}.html")
-            with open(filename, 'wb') as f:
-                f.write(content)
-            print(f"  -> Saved debug HTML for first failure to {filename}")
-            _debug_file_saved = True # Set the flag so no other thread will save a file.
-        except Exception as e:
-            print(f"  -> Failed to save debug file for {url}: {e}")
-
 def scrape_store_page(url):
-    """Fetches a store page and extracts data from the embedded __NUXT_DATA__ JSON blob."""
+    """
+    Fetches a store page and extracts data primarily from the ld+json script tag,
+    supplemented with data from other parts of the page.
+    """
     try:
         response = requests.get(url, timeout=20)
         response.raise_for_status()
@@ -76,51 +50,79 @@ def scrape_store_page(url):
         return None
 
     soup = BeautifulSoup(response.content, "lxml")
-    
-    nuxt_data_script = soup.find('script', id='__NUXT_DATA__', type='application/json')
-    if not nuxt_data_script:
-        print(f"  -> Error: __NUXT_DATA__ script tag not found on {url}")
-        save_debug_html(url, response.content)
-        return None
 
+    # --- 1. Primary Source: ld+json for core data (most reliable) ---
+    ld_json_script = soup.find('script', type='application/ld+json')
+    if not ld_json_script:
+        print(f"  -> Error: ld+json script tag not found on {url}")
+        return None
     try:
-        nuxt_data = json.loads(nuxt_data_script.string)
+        ld_data = json.loads(ld_json_script.string)
     except json.JSONDecodeError:
-        print(f"  -> Error: Failed to parse JSON from __NUXT_DATA__ on {url}")
-        save_debug_html(url, response.content)
+        print(f"  -> Error: Failed to parse ld+json on {url}")
         return None
 
-    store_info = None
-    if isinstance(nuxt_data, list):
-        for item in nuxt_data:
-            if isinstance(item, dict) and 'state' in item:
-                state_obj = item.get("state", {})
-                if isinstance(state_obj, dict):
-                     restaurant_data = state_obj.get("restaurant", {}).get("restaurant")
-                     if isinstance(restaurant_data, dict):
-                         store_info = restaurant_data
-                         break
-            
-    if not store_info:
-        print(f"  -> Error: Could not find restaurant data object in __NUXT_DATA__ on {url}")
-        save_debug_html(url, response.content)
-        return None
+    # Combine address parts for a full address string
+    address_obj = ld_data.get('address', {})
+    address_parts = [
+        address_obj.get('streetAddress'),
+        address_obj.get('addressLocality'),
+        address_obj.get('addressRegion')
+    ]
+    full_address = ', '.join(filter(None, [part.strip() if part else None for part in address_parts]))
 
-    description_copy = (store_info.get('description') or {}).get('copy')
-    services = [service.get('name') for service in store_info.get('services', []) if service.get('name')]
-        
+    # Reformat opening hours to match the desired structure
+    opening_hours_spec = ld_data.get('openingHoursSpecification', [])
+    opening_hours = []
+    day_order = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"]
+    for spec in opening_hours_spec:
+        try:
+            day = spec.get('dayOfWeek')
+            opens_dt = datetime.strptime(spec['opens'], '%H:%M')
+            closes_dt = datetime.strptime(spec['closes'], '%H:%M')
+            opens_formatted = opens_dt.strftime('%-I%p').replace('AM', 'AM').replace('PM', 'PM')
+            closes_formatted = closes_dt.strftime('%-I%p').replace('AM', 'AM').replace('PM', 'PM')
+            desc = f"{opens_formatted} - {closes_formatted}"
+            opening_hours.append({'name': day, 'description': desc, 'isClosed': False})
+        except (ValueError, TypeError, KeyError):
+            continue
+    opening_hours.sort(key=lambda x: day_order.index(x['name']) if x['name'] in day_order else 99)
+
     data = {
-        'name': store_info.get('name'),
-        'address': store_info.get('address'),
-        'phone': store_info.get('phoneNumber'),
-        'description': description_copy,
-        'services': services,
-        'opening_hours': store_info.get('tradingHours', []),
-        'latitude': store_info.get('latitude'),
-        'longitude': store_info.get('longitude'),
+        'name': ld_data.get('name'),
+        'address': full_address,
+        'phone': ld_data.get('telephone'),
+        'opening_hours': opening_hours,
         'url': url,
+        'description': None, 'services': [], 'latitude': None, 'longitude': None # Placeholders
     }
-    
+
+    # --- 2. Scrape visible HTML for services ---
+    data['services'] = [chip.text.strip() for chip in soup.select('.restaurant-chips .chip-text')]
+
+    # --- 3. Scrape __NUXT_DATA__ for geo-coords and description (less reliable) ---
+    nuxt_data_script = soup.find('script', id='__NUXT_DATA__')
+    if nuxt_data_script:
+        try:
+            nuxt_data = json.loads(nuxt_data_script.string)
+            def dereference(data_list, ref):
+                if isinstance(ref, int) and 0 <= ref < len(data_list):
+                    return data_list[ref]
+                return None
+            
+            state_ref_obj = next((item for item in nuxt_data if isinstance(item, dict) and 'state' in item), None)
+            if state_ref_obj:
+                state_obj = dereference(nuxt_data, state_ref_obj.get('state'))
+                if isinstance(state_obj, dict):
+                    restaurant_ref = state_obj.get('restaurant', {}).get('restaurant')
+                    restaurant_obj = dereference(nuxt_data, restaurant_ref)
+                    if isinstance(restaurant_obj, dict):
+                        data['latitude'] = dereference(nuxt_data, restaurant_obj.get('latitude'))
+                        data['longitude'] = dereference(nuxt_data, restaurant_obj.get('longitude'))
+                        data['description'] = dereference(nuxt_data, restaurant_obj.get('description'))
+        except (json.JSONDecodeError, IndexError, TypeError) as e:
+            print(f"  -> Warning: Could not parse __NUXT_DATA__ for extra details on {url}. Error: {e}")
+            
     return data
 
 def main():
@@ -143,17 +145,16 @@ def main():
 
         for future in as_completed(future_to_url):
             completed_count += 1
+            url = future_to_url[future]
             store_data = future.result()
             if store_data:
                 all_stores_data.append(store_data)
                 print(f"Progress: {completed_count}/{total_urls} | Extracted: {store_data.get('name')}")
             else:
-                url = future_to_url[future]
                 print(f"Progress: {completed_count}/{total_urls} | Failed to extract data for {url}")
 
-
     print("\n" + "="*30)
-    all_stores_data.sort(key=lambda x: x.get('name') or '')
+    all_stores_data.sort(key=lambda x: (x.get('name') or '').lower())
     end_time = time.time()
     duration = end_time - start_time
     
