@@ -1,3 +1,4 @@
+# FILE: .github/workflows/scrape.yml
 name: Scrape
 
 on:
@@ -30,6 +31,14 @@ jobs:
     - name: Run the scraper
       run: python3 scrape.py
       
+    - name: Upload debug artifacts
+      if: always() # This will run even if the scraper step fails or succeeds
+      uses: actions/upload-artifact@v4
+      with:
+        name: debug-html-pages
+        path: debug_html/
+        if-no-files-found: ignore # Don't fail if no debug files were created
+
     - name: Commit and push if there are changes
       run: |-
         git config user.name "Automated"

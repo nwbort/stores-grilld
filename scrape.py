@@ -2,6 +2,8 @@
 import requests
 import json
 import time
+import os
+import threading
 from bs4 import BeautifulSoup
 from urllib.parse import urljoin
 from concurrent.futures import ThreadPoolExecutor, as_completed
@@ -9,12 +11,18 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 BASE_URL = "https://grilld.com.au"
 RESTAURANTS_LIST_URL = urljoin(BASE_URL, "/restaurants")
 OUTPUT_FILE = "stores.json"
-MAX_WORKERS = 10 
+MAX_WORKERS = 10
+DEBUG_DIR = "debug_html"
+
+# --- START: Thread-safe debug flag ---
+# A lock to ensure only one thread can modify the flag at a time.
+_debug_lock = threading.Lock()
+# The flag itself. Once set to True, no more debug files will be saved.
+_debug_file_saved = False
+# --- END: Thread-safe debug flag ---
 
 def get_store_urls():
-    """
-    Fetches the main restaurants page and extracts all individual store URLs.
-    """
+    """Fetches the main restaurants page and extracts all individual store URLs."""
     print(f"Fetching store list from {RESTAURANTS_LIST_URL}...")
     try:
         response = requests.get(RESTAURANTS_LIST_URL)
@@ -38,11 +46,28 @@ def get_store_urls():
     print(f"Found {len(urls)} unique store URLs.")
     return sorted(list(urls))
 
+def save_debug_html(url, content):
+    """Saves the HTML content of the FIRST failed page for debugging."""
+    global _debug_file_saved
+    
+    # Use a lock to check and set the flag atomically (thread-safe).
+    with _debug_lock:
+        if _debug_file_saved:
+            return # A debug file has already been saved by another thread.
+        
+        try:
+            os.makedirs(DEBUG_DIR, exist_ok=True)
+            slug = url.strip('/').split('/')[-1]
+            filename = os.path.join(DEBUG_DIR, f"debug_{slug}.html")
+            with open(filename, 'wb') as f:
+                f.write(content)
+            print(f"  -> Saved debug HTML for first failure to {filename}")
+            _debug_file_saved = True # Set the flag so no other thread will save a file.
+        except Exception as e:
+            print(f"  -> Failed to save debug file for {url}: {e}")
+
 def scrape_store_page(url):
-    """
-    Fetches a store page and extracts data from the embedded __NUXT_DATA__ JSON blob.
-    This function is designed to be run in a separate thread.
-    """
+    """Fetches a store page and extracts data from the embedded __NUXT_DATA__ JSON blob."""
     try:
         response = requests.get(url, timeout=20)
         response.raise_for_status()
@@ -55,24 +80,30 @@ def scrape_store_page(url):
     nuxt_data_script = soup.find('script', id='__NUXT_DATA__', type='application/json')
     if not nuxt_data_script:
         print(f"  -> Error: __NUXT_DATA__ script tag not found on {url}")
+        save_debug_html(url, response.content)
         return None
 
     try:
         nuxt_data = json.loads(nuxt_data_script.string)
     except json.JSONDecodeError:
         print(f"  -> Error: Failed to parse JSON from __NUXT_DATA__ on {url}")
+        save_debug_html(url, response.content)
         return None
 
     store_info = None
-    try:
-        if len(nuxt_data) > 1 and isinstance(nuxt_data[1], dict):
-             store_info = nuxt_data[1].get("state", {}).get("restaurant", {}).get("restaurant")
-    except (IndexError, KeyError, AttributeError) as e:
-        print(f"  -> Error navigating JSON structure on {url}: {e}")
-        return None
+    if isinstance(nuxt_data, list):
+        for item in nuxt_data:
+            if isinstance(item, dict) and 'state' in item:
+                state_obj = item.get("state", {})
+                if isinstance(state_obj, dict):
+                     restaurant_data = state_obj.get("restaurant", {}).get("restaurant")
+                     if isinstance(restaurant_data, dict):
+                         store_info = restaurant_data
+                         break
             
-    if not store_info or not isinstance(store_info, dict):
-        print(f"  -> Error: Could not find valid store data object in __NUXT_DATA__ on {url}")
+    if not store_info:
+        print(f"  -> Error: Could not find restaurant data object in __NUXT_DATA__ on {url}")
+        save_debug_html(url, response.content)
         return None
 
     description_copy = (store_info.get('description') or {}).get('copy')
@@ -89,12 +120,11 @@ def scrape_store_page(url):
         'longitude': store_info.get('longitude'),
         'url': url,
     }
+    
     return data
 
 def main():
-    """
-    Main function to orchestrate the scraping process, using a thread pool for parallelism.
-    """
+    """Main function to orchestrate the scraping process."""
     start_time = time.time()
     
     store_urls = get_store_urls()
@@ -123,9 +153,7 @@ def main():
 
 
     print("\n" + "="*30)
-
     all_stores_data.sort(key=lambda x: x.get('name') or '')
-
     end_time = time.time()
     duration = end_time - start_time
     
