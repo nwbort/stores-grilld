@@ -3384,7 +3384,43 @@
     "name": "Garden City",
     "address": "Westfield Garden City, Kessels Rd, UPPER MOUNT GRAVATT",
     "phone": "07 3420 3044",
-    "opening_hours": [],
+    "opening_hours": [
+      {
+        "name": "Monday",
+        "description": "11AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Tuesday",
+        "description": "11AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Wednesday",
+        "description": "11AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "11AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Friday",
+        "description": "11AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Saturday",
+        "description": "11AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Sunday",
+        "description": "11AM - 10PM",
+        "isClosed": false
+      }
+    ],
     "url": "https://grilld.com.au/restaurants/queensland/garden-city",
     "description": null,
     "services": [
