@@ -2776,6 +2776,57 @@
     "longitude": null
   },
   {
+    "name": "Eltham",
+    "address": "981 Main Rd, ELTHAM, VIC",
+    "phone": "03 9439 8455",
+    "opening_hours": [
+      {
+        "name": "Monday",
+        "description": "11AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Tuesday",
+        "description": "11AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Wednesday",
+        "description": "11AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "11AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Friday",
+        "description": "11AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Saturday",
+        "description": "11AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Sunday",
+        "description": "11AM - 10PM",
+        "isClosed": false
+      }
+    ],
+    "url": "https://grilld.com.au/restaurants/victoria/eltham",
+    "description": null,
+    "services": [
+      "Pick Up",
+      "Park & Collect",
+      "Delivery"
+    ],
+    "latitude": null,
+    "longitude": null
+  },
+  {
     "name": "Emporium",
     "address": "T3 Emporium, 1000 Ann St, FORTITUDE VALLEY",
     "phone": "07 3257 7174",
