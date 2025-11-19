@@ -868,56 +868,6 @@
     "longitude": null
   },
   {
-    "name": "Bulimba",
-    "address": "124 Oxford St, BULIMBA, QLD",
-    "phone": "07 3399 5522",
-    "opening_hours": [
-      {
-        "name": "Monday",
-        "description": "11AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Tuesday",
-        "description": "11AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Wednesday",
-        "description": "11AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Thursday",
-        "description": "11AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Friday",
-        "description": "11AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Saturday",
-        "description": "11AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Sunday",
-        "description": "11AM - 10PM",
-        "isClosed": false
-      }
-    ],
-    "url": "https://grilld.com.au/restaurants/queensland/bulimba",
-    "description": null,
-    "services": [
-      "Pick Up",
-      "Delivery"
-    ],
-    "latitude": null,
-    "longitude": null
-  },
-  {
     "name": "Bundoora",
     "address": "Shop 1/33 Plenty Rd, BUNDOORA, VIC",
     "phone": "03 9466 7654",
@@ -3767,7 +3717,8 @@
     "description": null,
     "services": [
       "Pick Up",
-      "Delivery"
+      "Delivery",
+      "Catering"
     ],
     "latitude": null,
     "longitude": null
