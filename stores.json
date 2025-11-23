@@ -3063,7 +3063,7 @@
       },
       {
         "name": "Sunday",
-        "description": "10AM - 10PM",
+        "description": "10AM - 3PM",
         "isClosed": false
       }
     ],
@@ -5899,8 +5899,18 @@
     "phone": "08 8333 1806",
     "opening_hours": [
       {
+        "name": "Monday",
+        "description": "10AM - 9PM",
+        "isClosed": false
+      },
+      {
+        "name": "Tuesday",
+        "description": "10AM - 9PM",
+        "isClosed": false
+      },
+      {
         "name": "Wednesday",
-        "description": "10AM - 8PM",
+        "description": "10AM - 9PM",
         "isClosed": false
       },
       {
@@ -7295,7 +7305,7 @@
       },
       {
         "name": "Sunday",
-        "description": "10AM - 9PM",
+        "description": "10AM - 3PM",
         "isClosed": false
       }
     ],
@@ -7496,7 +7506,7 @@
       },
       {
         "name": "Sunday",
-        "description": "10AM - 10PM",
+        "description": "10AM - 3PM",
         "isClosed": false
       }
     ],
