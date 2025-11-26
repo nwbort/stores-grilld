@@ -3526,7 +3526,8 @@
     "description": null,
     "services": [
       "Pick Up",
-      "Delivery"
+      "Delivery",
+      "Catering"
     ],
     "latitude": null,
     "longitude": null
@@ -6690,57 +6691,6 @@
       }
     ],
     "url": "https://grilld.com.au/restaurants/new-south-wales/shellharbour",
-    "description": null,
-    "services": [
-      "Pick Up",
-      "Delivery",
-      "Catering"
-    ],
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "name": "South Bank",
-    "address": "Shop 3, 167 Grey St, SOUTH BRISBANE",
-    "phone": "07 3844 4700",
-    "opening_hours": [
-      {
-        "name": "Monday",
-        "description": "10AM - 12PM",
-        "isClosed": false
-      },
-      {
-        "name": "Tuesday",
-        "description": "10AM - 12PM",
-        "isClosed": false
-      },
-      {
-        "name": "Wednesday",
-        "description": "10AM - 12PM",
-        "isClosed": false
-      },
-      {
-        "name": "Thursday",
-        "description": "10AM - 12PM",
-        "isClosed": false
-      },
-      {
-        "name": "Friday",
-        "description": "10AM - 1AM",
-        "isClosed": false
-      },
-      {
-        "name": "Saturday",
-        "description": "10AM - 1AM",
-        "isClosed": false
-      },
-      {
-        "name": "Sunday",
-        "description": "10AM - 12PM",
-        "isClosed": false
-      }
-    ],
-    "url": "https://grilld.com.au/restaurants/queensland/south-bank",
     "description": null,
     "services": [
       "Pick Up",
