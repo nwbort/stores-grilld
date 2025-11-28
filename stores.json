@@ -653,6 +653,56 @@
     "longitude": null
   },
   {
+    "name": "Bondi Beach",
+    "address": "Shop 1 & 2, 89 - 93 Hall Street, BONDI BEACH",
+    "phone": "0291798703",
+    "opening_hours": [
+      {
+        "name": "Monday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Tuesday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Wednesday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Friday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Saturday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Sunday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      }
+    ],
+    "url": "https://grilld.com.au/restaurants/new-south-wales/bondi-beach",
+    "description": null,
+    "services": [
+      "Pick Up",
+      "Delivery"
+    ],
+    "latitude": null,
+    "longitude": null
+  },
+  {
     "name": "Bondi Junction",
     "address": "9-13 Bronte Rd, BONDI JUNCTION, NSW",
     "phone": "02 9387 6666",
@@ -2409,7 +2459,7 @@
       },
       {
         "name": "Saturday",
-        "description": "10AM - 10PM",
+        "description": "10AM - 11PM",
         "isClosed": false
       },
       {
@@ -6247,6 +6297,56 @@
     "longitude": null
   },
   {
+    "name": "Richmond",
+    "address": "127-133 Swan St, RICHMOND, VIC",
+    "phone": "03 9421 1100",
+    "opening_hours": [
+      {
+        "name": "Monday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Tuesday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Wednesday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Friday",
+        "description": "10AM - 11PM",
+        "isClosed": false
+      },
+      {
+        "name": "Saturday",
+        "description": "10AM - 11PM",
+        "isClosed": false
+      },
+      {
+        "name": "Sunday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      }
+    ],
+    "url": "https://grilld.com.au/restaurants/victoria/richmond",
+    "description": null,
+    "services": [
+      "Pick Up",
+      "Delivery"
+    ],
+    "latitude": null,
+    "longitude": null
+  },
+  {
     "name": "Robina",
     "address": "Robina Town Centre Dr, ROBINA, QLD",
     "phone": "07 5575 9994",
@@ -7214,37 +7314,37 @@
     "opening_hours": [
       {
         "name": "Monday",
-        "description": "10AM - 10PM",
+        "description": "10AM - 9PM",
         "isClosed": false
       },
       {
         "name": "Tuesday",
-        "description": "10AM - 10PM",
+        "description": "10AM - 9PM",
         "isClosed": false
       },
       {
         "name": "Wednesday",
-        "description": "10AM - 10PM",
+        "description": "10AM - 9PM",
         "isClosed": false
       },
       {
         "name": "Thursday",
-        "description": "10AM - 10PM",
+        "description": "10AM - 9PM",
         "isClosed": false
       },
       {
         "name": "Friday",
-        "description": "10AM - 10PM",
+        "description": "10AM - 9PM",
         "isClosed": false
       },
       {
         "name": "Saturday",
-        "description": "10AM - 10PM",
+        "description": "10AM - 9PM",
         "isClosed": false
       },
       {
         "name": "Sunday",
-        "description": "10AM - 10PM",
+        "description": "10AM - 9PM",
         "isClosed": false
       }
     ],
@@ -7655,6 +7755,57 @@
     "services": [
       "Pick Up",
       "Delivery"
+    ],
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "name": "Upper Coomera",
+    "address": "2 City Centre Dr, UPPER COOMERA, QLD",
+    "phone": "(07) 5626 0019",
+    "opening_hours": [
+      {
+        "name": "Monday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Tuesday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Wednesday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Friday",
+        "description": "10AM - 11PM",
+        "isClosed": false
+      },
+      {
+        "name": "Saturday",
+        "description": "10AM - 11PM",
+        "isClosed": false
+      },
+      {
+        "name": "Sunday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      }
+    ],
+    "url": "https://grilld.com.au/restaurants/queensland/upper-coomera",
+    "description": null,
+    "services": [
+      "Pick Up",
+      "Delivery",
+      "Catering"
     ],
     "latitude": null,
     "longitude": null
