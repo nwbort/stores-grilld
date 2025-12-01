@@ -4945,57 +4945,6 @@
     "longitude": null
   },
   {
-    "name": "Manuka",
-    "address": "1/40-42 Franklin St, GRIFFITH, ACT",
-    "phone": "02 6239 6111",
-    "opening_hours": [
-      {
-        "name": "Monday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Tuesday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Wednesday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Thursday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Friday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Saturday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Sunday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      }
-    ],
-    "url": "https://grilld.com.au/restaurants/australian-capital-territory/manuka",
-    "description": null,
-    "services": [
-      "Pick Up",
-      "Delivery",
-      "Catering"
-    ],
-    "latitude": null,
-    "longitude": null
-  },
-  {
     "name": "Marion",
     "address": "Shop 2026A/297 Diagonal Rd, OAKLANDS PARK, SA",
     "phone": "08 8296 7977",
@@ -5145,6 +5094,56 @@
     "longitude": null
   },
   {
+    "name": "Melbourne Emporium",
+    "address": "Shop 3-060 Emporium Melbourne, 295 Lonsdale St, MELBOURNE",
+    "phone": "03 8609 8136",
+    "opening_hours": [
+      {
+        "name": "Monday",
+        "description": "10AM - 7PM",
+        "isClosed": false
+      },
+      {
+        "name": "Tuesday",
+        "description": "10AM - 7PM",
+        "isClosed": false
+      },
+      {
+        "name": "Wednesday",
+        "description": "10AM - 7PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "10AM - 9PM",
+        "isClosed": false
+      },
+      {
+        "name": "Friday",
+        "description": "10AM - 9PM",
+        "isClosed": false
+      },
+      {
+        "name": "Saturday",
+        "description": "10AM - 7PM",
+        "isClosed": false
+      },
+      {
+        "name": "Sunday",
+        "description": "10AM - 7PM",
+        "isClosed": false
+      }
+    ],
+    "url": "https://grilld.com.au/restaurants/victoria/melbourne-emporium",
+    "description": null,
+    "services": [
+      "Pick Up",
+      "Catering"
+    ],
+    "latitude": null,
+    "longitude": null
+  },
+  {
     "name": "Midland",
     "address": "Midland Gate Shopping Centre, 274 Great Eastern Hwy, MIDLAND",
     "phone": "08 9274 0911",
@@ -5253,11 +5252,6 @@
     "opening_hours": [
       {
         "name": "Monday",
-        "description": "11AM - 9PM",
-        "isClosed": false
-      },
-      {
-        "name": "Tuesday",
         "description": "11AM - 9PM",
         "isClosed": false
       },
@@ -7152,6 +7146,56 @@
       "Pick Up",
       "Delivery",
       "Catering"
+    ],
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "name": "Tea Tree Plaza",
+    "address": "SP03 Westfield Tea Tree Plaza, 976 North East Rd, MODBURY",
+    "phone": "08 7002 3970",
+    "opening_hours": [
+      {
+        "name": "Monday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Tuesday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Wednesday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Friday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Saturday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Sunday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      }
+    ],
+    "url": "https://grilld.com.au/restaurants/south-australia/tea-tree-plaza",
+    "description": null,
+    "services": [
+      "Pick Up",
+      "Delivery"
     ],
     "latitude": null,
     "longitude": null
