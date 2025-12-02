@@ -4945,6 +4945,57 @@
     "longitude": null
   },
   {
+    "name": "Manuka",
+    "address": "1/40-42 Franklin St, GRIFFITH, ACT",
+    "phone": "02 6239 6111",
+    "opening_hours": [
+      {
+        "name": "Monday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Tuesday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Wednesday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Friday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Saturday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Sunday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      }
+    ],
+    "url": "https://grilld.com.au/restaurants/australian-capital-territory/manuka",
+    "description": null,
+    "services": [
+      "Pick Up",
+      "Delivery",
+      "Catering"
+    ],
+    "latitude": null,
+    "longitude": null
+  },
+  {
     "name": "Marion",
     "address": "Shop 2026A/297 Diagonal Rd, OAKLANDS PARK, SA",
     "phone": "08 8296 7977",
