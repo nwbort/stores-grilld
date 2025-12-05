@@ -5307,6 +5307,11 @@
         "isClosed": false
       },
       {
+        "name": "Tuesday",
+        "description": "11AM - 9PM",
+        "isClosed": false
+      },
+      {
         "name": "Wednesday",
         "description": "11AM - 9PM",
         "isClosed": false
