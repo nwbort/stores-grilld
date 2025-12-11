@@ -804,21 +804,6 @@
     "longitude": null
   },
   {
-    "name": "Brookfield Place",
-    "address": "125 St Georges Tce, PERTH, WA",
-    "phone": "08 9226 4888",
-    "opening_hours": [],
-    "url": "https://grilld.com.au/restaurants/western-australia/brookfield-place",
-    "description": null,
-    "services": [
-      "Pick Up",
-      "Delivery",
-      "Catering"
-    ],
-    "latitude": null,
-    "longitude": null
-  },
-  {
     "name": "Browns Plains",
     "address": "Shop GF079, Grand Plaza, 27-49 Browns Plains Rd",
     "phone": "07 3809 4681",
@@ -6247,56 +6232,6 @@
     "longitude": null
   },
   {
-    "name": "QV",
-    "address": "QV Shopping Centre, Level 2, Cnr Swanston St & Lonsdale St",
-    "phone": "03 9663 0399",
-    "opening_hours": [
-      {
-        "name": "Monday",
-        "description": "11AM - 9PM",
-        "isClosed": false
-      },
-      {
-        "name": "Tuesday",
-        "description": "11AM - 9PM",
-        "isClosed": false
-      },
-      {
-        "name": "Wednesday",
-        "description": "11AM - 9PM",
-        "isClosed": false
-      },
-      {
-        "name": "Thursday",
-        "description": "11AM - 9PM",
-        "isClosed": false
-      },
-      {
-        "name": "Friday",
-        "description": "11AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Saturday",
-        "description": "11AM - 9PM",
-        "isClosed": false
-      },
-      {
-        "name": "Sunday",
-        "description": "11AM - 9PM",
-        "isClosed": false
-      }
-    ],
-    "url": "https://grilld.com.au/restaurants/victoria/qv",
-    "description": null,
-    "services": [
-      "Pick Up",
-      "Delivery"
-    ],
-    "latitude": null,
-    "longitude": null
-  },
-  {
     "name": "Richmond",
     "address": "127-133 Swan St, RICHMOND, VIC",
     "phone": "03 9421 1100",
@@ -7956,6 +7891,20 @@
     "services": [
       "Pick Up",
       "Delivery"
+    ],
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "name": "Wanneroo",
+    "address": "Shop 9, 15 & 21 Herdsman Lane, WANNEROO",
+    "phone": "",
+    "opening_hours": [],
+    "url": "https://grilld.com.au/restaurants/western-australia/wanneroo",
+    "description": null,
+    "services": [
+      "Drive Thru",
+      "Pick Up"
     ],
     "latitude": null,
     "longitude": null
