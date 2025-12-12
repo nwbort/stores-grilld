@@ -7898,8 +7898,39 @@
   {
     "name": "Wanneroo",
     "address": "Shop 9, 15 & 21 Herdsman Lane, WANNEROO",
-    "phone": "",
-    "opening_hours": [],
+    "phone": "(08) 6402 5555",
+    "opening_hours": [
+      {
+        "name": "Monday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Tuesday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Wednesday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Saturday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Sunday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      }
+    ],
     "url": "https://grilld.com.au/restaurants/western-australia/wanneroo",
     "description": null,
     "services": [
