@@ -7921,6 +7921,11 @@
         "isClosed": false
       },
       {
+        "name": "Friday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
         "name": "Saturday",
         "description": "10AM - 10PM",
         "isClosed": false
