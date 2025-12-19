@@ -5031,6 +5031,48 @@
     "longitude": null
   },
   {
+    "name": "Marriott Waters",
+    "address": "10�18 Society Avenue, LYNDHURST, VIC",
+    "phone": "03 8750 5555",
+    "opening_hours": [
+      {
+        "name": "Monday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Tuesday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Wednesday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Saturday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Sunday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      }
+    ],
+    "url": "https://grilld.com.au/restaurants/victoria/marriott-waters",
+    "description": null,
+    "services": [],
+    "latitude": null,
+    "longitude": null
+  },
+  {
     "name": "Melbourne Airport",
     "address": "Site IQL5, Terminal 2, Melbourne Airport",
     "phone": "03 9330 4994",
