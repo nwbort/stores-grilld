@@ -1787,7 +1787,7 @@
       },
       {
         "name": "Friday",
-        "description": "9PM - 10PM",
+        "description": "9AM - 10PM",
         "isClosed": false
       },
       {
@@ -3006,7 +3006,7 @@
       },
       {
         "name": "Friday",
-        "description": "10AM - 11PM",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
