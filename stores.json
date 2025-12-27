@@ -381,8 +381,13 @@
         "isClosed": false
       },
       {
-        "name": "Friday",
+        "name": "Thursday",
         "description": "10AM - 9PM",
+        "isClosed": false
+      },
+      {
+        "name": "Friday",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
@@ -1512,8 +1517,13 @@
         "isClosed": false
       },
       {
+        "name": "Thursday",
+        "description": "11AM - 10PM",
+        "isClosed": false
+      },
+      {
         "name": "Friday",
-        "description": "9AM - 10PM",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
