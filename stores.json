@@ -3515,7 +3515,12 @@
       },
       {
         "name": "Wednesday",
-        "description": "10AM - 6PM",
+        "description": "10AM - 11PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "10AM - 11PM",
         "isClosed": false
       },
       {
