@@ -20,6 +20,11 @@
         "isClosed": false
       },
       {
+        "name": "Thursday",
+        "description": "10AM - 8PM",
+        "isClosed": false
+      },
+      {
         "name": "Friday",
         "description": "10AM - 9PM",
         "isClosed": false
@@ -62,7 +67,12 @@
       },
       {
         "name": "Wednesday",
-        "description": "10AM - 10PM",
+        "description": "10AM - 11PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "10AM - 11PM",
         "isClosed": false
       },
       {
@@ -107,6 +117,11 @@
       },
       {
         "name": "Wednesday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
         "description": "10AM - 9PM",
         "isClosed": false
       },
@@ -152,7 +167,12 @@
       },
       {
         "name": "Wednesday",
-        "description": "10AM - 8PM",
+        "description": "10AM - 9PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
@@ -198,7 +218,12 @@
       },
       {
         "name": "Wednesday",
-        "description": "10AM - 8PM",
+        "description": "10AM - 9PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
@@ -243,6 +268,11 @@
       },
       {
         "name": "Wednesday",
+        "description": "10AM - 9PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
         "description": "10AM - 9PM",
         "isClosed": false
       },
@@ -292,6 +322,11 @@
         "isClosed": false
       },
       {
+        "name": "Thursday",
+        "description": "11AM - 9PM",
+        "isClosed": false
+      },
+      {
         "name": "Friday",
         "description": "11AM - 10PM",
         "isClosed": false
@@ -334,6 +369,11 @@
       {
         "name": "Wednesday",
         "description": "10AM - 3PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "10AM - 9PM",
         "isClosed": false
       },
       {
@@ -427,7 +467,12 @@
       },
       {
         "name": "Wednesday",
-        "description": "10AM - 8PM",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
@@ -473,7 +518,12 @@
       },
       {
         "name": "Wednesday",
-        "description": "11AM - 3PM",
+        "description": "11AM - 8PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "11AM - 9PM",
         "isClosed": false
       },
       {
@@ -518,7 +568,12 @@
       },
       {
         "name": "Wednesday",
-        "description": "10AM - 8PM",
+        "description": "10AM - 9PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "10AM - 9PM",
         "isClosed": false
       },
       {
@@ -564,7 +619,12 @@
       },
       {
         "name": "Wednesday",
-        "description": "10AM - 8PM",
+        "description": "10AM - 9PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "10AM - 9PM",
         "isClosed": false
       },
       {
@@ -609,6 +669,11 @@
       },
       {
         "name": "Wednesday",
+        "description": "10AM - 9PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
         "description": "10AM - 9PM",
         "isClosed": false
       },
@@ -658,6 +723,11 @@
         "isClosed": false
       },
       {
+        "name": "Thursday",
+        "description": "10AM - 9PM",
+        "isClosed": false
+      },
+      {
         "name": "Friday",
         "description": "10AM - 11PM",
         "isClosed": false
@@ -700,7 +770,12 @@
       },
       {
         "name": "Wednesday",
-        "description": "10AM - 8PM",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
@@ -745,7 +820,12 @@
       },
       {
         "name": "Wednesday",
-        "description": "10AM - 8PM",
+        "description": "10AM - 9PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
@@ -790,7 +870,12 @@
       },
       {
         "name": "Wednesday",
-        "description": "10AM - 8PM",
+        "description": "10AM - 9PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
@@ -835,7 +920,12 @@
       },
       {
         "name": "Wednesday",
-        "description": "10AM - 8PM",
+        "description": "10AM - 9PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
@@ -880,7 +970,12 @@
       },
       {
         "name": "Wednesday",
-        "description": "10AM - 8PM",
+        "description": "10AM - 9PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "10AM - 9PM",
         "isClosed": false
       },
       {
@@ -925,7 +1020,12 @@
       },
       {
         "name": "Wednesday",
-        "description": "10AM - 9PM",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
@@ -971,7 +1071,7 @@
       },
       {
         "name": "Wednesday",
-        "description": "10AM - 10PM",
+        "description": "10AM - 1AM",
         "isClosed": false
       },
       {
@@ -1016,7 +1116,12 @@
       },
       {
         "name": "Wednesday",
-        "description": "10AM - 8PM",
+        "description": "10AM - 9PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
@@ -1061,6 +1166,11 @@
       },
       {
         "name": "Wednesday",
+        "description": "10AM - 11PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
         "description": "10AM - 10PM",
         "isClosed": false
       },
@@ -1107,7 +1217,12 @@
       },
       {
         "name": "Wednesday",
-        "description": "10AM - 8PM",
+        "description": "10AM - 7PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "11AM - 9PM",
         "isClosed": false
       },
       {
@@ -1152,7 +1267,12 @@
       },
       {
         "name": "Wednesday",
-        "description": "10AM - 8PM",
+        "description": "10AM - 9PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
@@ -1197,7 +1317,12 @@
       },
       {
         "name": "Wednesday",
-        "description": "10AM - 8PM",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
@@ -1243,7 +1368,12 @@
       },
       {
         "name": "Wednesday",
-        "description": "10AM - 8PM",
+        "description": "10AM - 9PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
@@ -1288,7 +1418,12 @@
       },
       {
         "name": "Wednesday",
-        "description": "10AM - 8PM",
+        "description": "10AM - 9PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
@@ -1333,7 +1468,12 @@
       },
       {
         "name": "Wednesday",
-        "description": "10AM - 8PM",
+        "description": "10AM - 9PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
@@ -1378,7 +1518,12 @@
       },
       {
         "name": "Wednesday",
-        "description": "10AM - 8PM",
+        "description": "10AM - 7PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "11AM - 9PM",
         "isClosed": false
       },
       {
@@ -1423,17 +1568,22 @@
       },
       {
         "name": "Wednesday",
-        "description": "10AM - 9PM",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
         "name": "Friday",
-        "description": "8AM - 11PM",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
         "name": "Saturday",
-        "description": "10AM - 11PM",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
@@ -1468,7 +1618,12 @@
       },
       {
         "name": "Wednesday",
-        "description": "10AM - 8PM",
+        "description": "10AM - 9PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
@@ -1563,12 +1718,17 @@
       },
       {
         "name": "Wednesday",
-        "description": "9AM - 6PM",
+        "description": "10AM - 8PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "10AM - 8PM",
         "isClosed": false
       },
       {
         "name": "Friday",
-        "description": "8AM - 11PM",
+        "description": "10AM - 11PM",
         "isClosed": false
       },
       {
@@ -1612,8 +1772,13 @@
         "isClosed": false
       },
       {
-        "name": "Friday",
+        "name": "Thursday",
         "description": "6AM - 11PM",
+        "isClosed": false
+      },
+      {
+        "name": "Friday",
+        "description": "10AM - 11PM",
         "isClosed": false
       },
       {
@@ -1655,7 +1820,12 @@
       },
       {
         "name": "Wednesday",
-        "description": "10AM - 8PM",
+        "description": "10AM - 9PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
@@ -1701,7 +1871,12 @@
       },
       {
         "name": "Wednesday",
-        "description": "10AM - 8PM",
+        "description": "10AM - 9PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
@@ -1746,7 +1921,12 @@
       },
       {
         "name": "Wednesday",
-        "description": "10AM - 9PM",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
@@ -1796,6 +1976,11 @@
         "isClosed": false
       },
       {
+        "name": "Thursday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
         "name": "Friday",
         "description": "9AM - 10PM",
         "isClosed": false
@@ -1841,6 +2026,11 @@
         "isClosed": false
       },
       {
+        "name": "Thursday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
         "name": "Friday",
         "description": "10AM - 10PM",
         "isClosed": false
@@ -1882,7 +2072,12 @@
       },
       {
         "name": "Wednesday",
-        "description": "10AM - 9PM",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
@@ -1927,7 +2122,12 @@
       },
       {
         "name": "Wednesday",
-        "description": "10AM - 8PM",
+        "description": "10AM - 9PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "11AM - 9PM",
         "isClosed": false
       },
       {
@@ -1972,6 +2172,11 @@
       },
       {
         "name": "Wednesday",
+        "description": "10AM - 1AM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
         "description": "10AM - 10PM",
         "isClosed": false
       },
@@ -2021,8 +2226,13 @@
         "isClosed": false
       },
       {
+        "name": "Thursday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
         "name": "Friday",
-        "description": "11AM - 9PM",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
@@ -2062,7 +2272,12 @@
       },
       {
         "name": "Wednesday",
-        "description": "10AM - 9PM",
+        "description": "10AM - 8PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "11AM - 9PM",
         "isClosed": false
       },
       {
@@ -2108,6 +2323,11 @@
       },
       {
         "name": "Wednesday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
         "description": "10AM - 10PM",
         "isClosed": false
       },
@@ -2158,6 +2378,11 @@
         "isClosed": false
       },
       {
+        "name": "Thursday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
         "name": "Friday",
         "description": "10AM - 10PM",
         "isClosed": false
@@ -2199,7 +2424,12 @@
       },
       {
         "name": "Wednesday",
-        "description": "10AM - 9PM",
+        "description": "10AM - 11PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "10AM - 11PM",
         "isClosed": false
       },
       {
@@ -2244,7 +2474,12 @@
       },
       {
         "name": "Wednesday",
-        "description": "11AM - 9PM",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
@@ -2289,12 +2524,17 @@
       },
       {
         "name": "Wednesday",
-        "description": "10AM - 8PM",
+        "description": "10AM - 11PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
         "name": "Friday",
-        "description": "10AM - 9PM",
+        "description": "10AM - 11PM",
         "isClosed": false
       },
       {
@@ -2334,12 +2574,17 @@
       },
       {
         "name": "Wednesday",
-        "description": "10AM - 6PM",
+        "description": "10AM - 8PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "10AM - 8PM",
         "isClosed": false
       },
       {
         "name": "Friday",
-        "description": "9AM - 10PM",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
@@ -2379,6 +2624,11 @@
       },
       {
         "name": "Wednesday",
+        "description": "10AM - 8PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
         "description": "10AM - 8PM",
         "isClosed": false
       },
@@ -2423,12 +2673,17 @@
       },
       {
         "name": "Wednesday",
-        "description": "10AM - 6PM",
+        "description": "10AM - 9PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
         "name": "Friday",
-        "description": "9AM - 10PM",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
@@ -2468,7 +2723,12 @@
       },
       {
         "name": "Wednesday",
-        "description": "10AM - 8PM",
+        "description": "10AM - 9PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
@@ -2513,7 +2773,12 @@
       },
       {
         "name": "Wednesday",
-        "description": "10AM - 8PM",
+        "description": "10AM - 7PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "11AM - 9PM",
         "isClosed": false
       },
       {
@@ -2558,7 +2823,12 @@
       },
       {
         "name": "Wednesday",
-        "description": "10AM - 8PM",
+        "description": "10AM - 9PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
@@ -2604,7 +2874,12 @@
       },
       {
         "name": "Wednesday",
-        "description": "10AM - 8PM",
+        "description": "10AM - 9PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
@@ -2650,7 +2925,12 @@
       },
       {
         "name": "Wednesday",
-        "description": "10AM - 8PM",
+        "description": "10AM - 9PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
@@ -2695,7 +2975,12 @@
       },
       {
         "name": "Wednesday",
-        "description": "10AM - 8PM",
+        "description": "10AM - 9PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
@@ -2740,7 +3025,12 @@
       },
       {
         "name": "Wednesday",
-        "description": "10AM - 3PM",
+        "description": "10AM - 8PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "11AM - 9PM",
         "isClosed": false
       },
       {
@@ -2786,7 +3076,12 @@
       },
       {
         "name": "Wednesday",
-        "description": "10AM - 8PM",
+        "description": "10AM - 9PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
@@ -2835,6 +3130,11 @@
         "isClosed": false
       },
       {
+        "name": "Thursday",
+        "description": "11AM - 10PM",
+        "isClosed": false
+      },
+      {
         "name": "Friday",
         "description": "11AM - 10PM",
         "isClosed": false
@@ -2876,7 +3176,12 @@
       },
       {
         "name": "Wednesday",
-        "description": "10AM - 8PM",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "11AM - 9PM",
         "isClosed": false
       },
       {
@@ -2925,6 +3230,11 @@
         "isClosed": false
       },
       {
+        "name": "Thursday",
+        "description": "10AM - 11PM",
+        "isClosed": false
+      },
+      {
         "name": "Friday",
         "description": "10AM - 11PM",
         "isClosed": false
@@ -2966,7 +3276,12 @@
       },
       {
         "name": "Wednesday",
-        "description": "10AM - 8PM",
+        "description": "10AM - 9PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
@@ -3015,8 +3330,13 @@
         "isClosed": false
       },
       {
+        "name": "Thursday",
+        "description": "10AM - 11PM",
+        "isClosed": false
+      },
+      {
         "name": "Friday",
-        "description": "10AM - 10PM",
+        "description": "10AM - 11PM",
         "isClosed": false
       },
       {
@@ -3057,7 +3377,12 @@
       },
       {
         "name": "Wednesday",
-        "description": "10AM - 6PM",
+        "description": "10AM - 9PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
@@ -3103,7 +3428,12 @@
       },
       {
         "name": "Wednesday",
-        "description": "10AM - 8PM",
+        "description": "10AM - 9PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
@@ -3148,7 +3478,7 @@
       },
       {
         "name": "Wednesday",
-        "description": "10AM - 8PM",
+        "description": "10AM - 9PM",
         "isClosed": false
       },
       {
@@ -3194,7 +3524,12 @@
       },
       {
         "name": "Wednesday",
-        "description": "10AM - 9PM",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
@@ -3240,7 +3575,12 @@
       },
       {
         "name": "Wednesday",
-        "description": "10AM - 8PM",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
@@ -3286,7 +3626,12 @@
       },
       {
         "name": "Wednesday",
-        "description": "11AM - 8PM",
+        "description": "11AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "11AM - 10PM",
         "isClosed": false
       },
       {
@@ -3332,7 +3677,12 @@
       },
       {
         "name": "Wednesday",
-        "description": "10AM - 8PM",
+        "description": "10AM - 9PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
@@ -3377,6 +3727,11 @@
       },
       {
         "name": "Wednesday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
         "description": "10AM - 10PM",
         "isClosed": false
       },
@@ -3469,7 +3824,12 @@
       },
       {
         "name": "Wednesday",
-        "description": "10AM - 8PM",
+        "description": "10AM - 9PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
@@ -3510,12 +3870,12 @@
       },
       {
         "name": "Tuesday",
-        "description": "10AM - 2AM",
+        "description": "10AM - 11PM",
         "isClosed": false
       },
       {
         "name": "Wednesday",
-        "description": "10AM - 11PM",
+        "description": "10AM - 9PM",
         "isClosed": false
       },
       {
@@ -3565,7 +3925,12 @@
       },
       {
         "name": "Wednesday",
-        "description": "10AM - 9PM",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
@@ -3610,7 +3975,12 @@
       },
       {
         "name": "Wednesday",
-        "description": "10AM - 8PM",
+        "description": "10AM - 9PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
@@ -3659,6 +4029,11 @@
         "isClosed": false
       },
       {
+        "name": "Thursday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
         "name": "Friday",
         "description": "11AM - 10PM",
         "isClosed": false
@@ -3701,7 +4076,12 @@
       },
       {
         "name": "Wednesday",
-        "description": "10AM - 10PM",
+        "description": "10AM - 9PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "10AM - 9PM",
         "isClosed": false
       },
       {
@@ -3746,7 +4126,12 @@
       },
       {
         "name": "Wednesday",
-        "description": "10AM - 8PM",
+        "description": "10AM - 9PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
@@ -3791,7 +4176,12 @@
       },
       {
         "name": "Wednesday",
-        "description": "10AM - 10PM",
+        "description": "10AM - 9PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "10AM - 9PM",
         "isClosed": false
       },
       {
@@ -3836,7 +4226,12 @@
       },
       {
         "name": "Wednesday",
-        "description": "10AM - 8PM",
+        "description": "10AM - 9PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
@@ -3881,7 +4276,12 @@
       },
       {
         "name": "Wednesday",
-        "description": "10AM - 8PM",
+        "description": "10AM - 9PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
@@ -3926,6 +4326,11 @@
       },
       {
         "name": "Wednesday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
         "description": "10AM - 10PM",
         "isClosed": false
       },
@@ -3976,6 +4381,11 @@
         "isClosed": false
       },
       {
+        "name": "Thursday",
+        "description": "11AM - 9PM",
+        "isClosed": false
+      },
+      {
         "name": "Friday",
         "description": "10AM - 9PM",
         "isClosed": false
@@ -4017,7 +4427,12 @@
       },
       {
         "name": "Wednesday",
-        "description": "10AM - 8PM",
+        "description": "10AM - 7PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "10AM - 9PM",
         "isClosed": false
       },
       {
@@ -4063,6 +4478,11 @@
       {
         "name": "Wednesday",
         "description": "10AM - 9PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
@@ -4112,6 +4532,11 @@
         "isClosed": false
       },
       {
+        "name": "Thursday",
+        "description": "11AM - 9PM",
+        "isClosed": false
+      },
+      {
         "name": "Friday",
         "description": "10AM - 9PM",
         "isClosed": false
@@ -4153,12 +4578,17 @@
       },
       {
         "name": "Wednesday",
-        "description": "10AM - 9PM",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
         "name": "Friday",
-        "description": "11AM - 10PM",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
@@ -4199,7 +4629,12 @@
       },
       {
         "name": "Wednesday",
-        "description": "10AM - 9PM",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
@@ -4244,7 +4679,12 @@
       },
       {
         "name": "Wednesday",
-        "description": "10AM - 8PM",
+        "description": "10AM - 9PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
@@ -4289,7 +4729,12 @@
       },
       {
         "name": "Wednesday",
-        "description": "10AM - 8PM",
+        "description": "10AM - 9PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
@@ -4334,7 +4779,12 @@
       },
       {
         "name": "Wednesday",
-        "description": "10AM - 9PM",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
@@ -4380,7 +4830,12 @@
       },
       {
         "name": "Wednesday",
-        "description": "10AM - 8PM",
+        "description": "10AM - 9PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
@@ -4425,7 +4880,7 @@
         "isClosed": false
       },
       {
-        "name": "Wednesday",
+        "name": "Thursday",
         "description": "10AM - 10PM",
         "isClosed": false
       },
@@ -4471,7 +4926,12 @@
       },
       {
         "name": "Wednesday",
-        "description": "10AM - 8PM",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
@@ -4521,6 +4981,11 @@
         "isClosed": false
       },
       {
+        "name": "Thursday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
         "name": "Friday",
         "description": "10AM - 10PM",
         "isClosed": false
@@ -4562,7 +5027,12 @@
       },
       {
         "name": "Wednesday",
-        "description": "10AM - 10PM",
+        "description": "10AM - 11PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "10AM - 11PM",
         "isClosed": false
       },
       {
@@ -4606,12 +5076,12 @@
       },
       {
         "name": "Wednesday",
-        "description": "6AM - 8PM",
+        "description": "8AM - 10PM",
         "isClosed": false
       },
       {
         "name": "Thursday",
-        "description": "8AM - 8PM",
+        "description": "8AM - 10PM",
         "isClosed": false
       },
       {
@@ -4655,7 +5125,12 @@
       },
       {
         "name": "Wednesday",
-        "description": "10AM - 6PM",
+        "description": "10AM - 8PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "10AM - 9PM",
         "isClosed": false
       },
       {
@@ -4700,12 +5175,17 @@
       },
       {
         "name": "Wednesday",
+        "description": "10AM - 7PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
         "description": "10AM - 6PM",
         "isClosed": false
       },
       {
         "name": "Friday",
-        "description": "10AM - 9PM",
+        "description": "10AM - 7PM",
         "isClosed": false
       },
       {
@@ -4745,6 +5225,11 @@
       },
       {
         "name": "Wednesday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
         "description": "10AM - 10PM",
         "isClosed": false
       },
@@ -4795,6 +5280,11 @@
         "isClosed": false
       },
       {
+        "name": "Thursday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
         "name": "Friday",
         "description": "10AM - 9PM",
         "isClosed": false
@@ -4841,6 +5331,11 @@
         "isClosed": false
       },
       {
+        "name": "Thursday",
+        "description": "11AM - 9PM",
+        "isClosed": false
+      },
+      {
         "name": "Friday",
         "description": "11AM - 10PM",
         "isClosed": false
@@ -4881,7 +5376,12 @@
       },
       {
         "name": "Wednesday",
-        "description": "10AM - 8PM",
+        "description": "10AM - 9PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
@@ -4930,6 +5430,11 @@
         "isClosed": false
       },
       {
+        "name": "Thursday",
+        "description": "11AM - 10PM",
+        "isClosed": false
+      },
+      {
         "name": "Friday",
         "description": "10AM - 11PM",
         "isClosed": false
@@ -4971,7 +5476,12 @@
       },
       {
         "name": "Wednesday",
-        "description": "10AM - 8PM",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
@@ -5017,7 +5527,12 @@
       },
       {
         "name": "Wednesday",
-        "description": "10AM - 8PM",
+        "description": "10AM - 9PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
@@ -5066,6 +5581,11 @@
         "isClosed": false
       },
       {
+        "name": "Thursday",
+        "description": "11AM - 9PM",
+        "isClosed": false
+      },
+      {
         "name": "Friday",
         "description": "10AM - 9PM",
         "isClosed": false
@@ -5107,7 +5627,12 @@
       },
       {
         "name": "Wednesday",
-        "description": "10AM - 8PM",
+        "description": "10AM - 9PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
@@ -5152,6 +5677,11 @@
       },
       {
         "name": "Wednesday",
+        "description": "10AM - 11PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
         "description": "10AM - 10PM",
         "isClosed": false
       },
@@ -5197,7 +5727,12 @@
       },
       {
         "name": "Wednesday",
-        "description": "10AM - 10PM",
+        "description": "10AM - 1AM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "10AM - 11PM",
         "isClosed": false
       },
       {
@@ -5242,7 +5777,12 @@
       },
       {
         "name": "Wednesday",
-        "description": "10AM - 10PM",
+        "description": "10AM - 11PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "10AM - 11PM",
         "isClosed": false
       },
       {
@@ -5287,7 +5827,12 @@
       },
       {
         "name": "Wednesday",
-        "description": "10AM - 8PM",
+        "description": "10AM - 9PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
@@ -5332,7 +5877,12 @@
       },
       {
         "name": "Wednesday",
-        "description": "10AM - 8PM",
+        "description": "10AM - 9PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
@@ -5377,7 +5927,7 @@
       },
       {
         "name": "Wednesday",
-        "description": "10AM - 3PM",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
@@ -5426,6 +5976,11 @@
         "isClosed": false
       },
       {
+        "name": "Thursday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
         "name": "Friday",
         "description": "10AM - 10PM",
         "isClosed": false
@@ -5467,7 +6022,12 @@
       },
       {
         "name": "Wednesday",
-        "description": "10AM - 8PM",
+        "description": "10AM - 9PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
@@ -5512,7 +6072,12 @@
       },
       {
         "name": "Wednesday",
-        "description": "10AM - 2PM",
+        "description": "10AM - 8PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "10AM - 9PM",
         "isClosed": false
       },
       {
@@ -5557,7 +6122,12 @@
       },
       {
         "name": "Wednesday",
-        "description": "10AM - 8PM",
+        "description": "10AM - 9PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
@@ -5602,7 +6172,12 @@
       },
       {
         "name": "Wednesday",
-        "description": "10AM - 8PM",
+        "description": "10AM - 9PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
@@ -5647,7 +6222,7 @@
       },
       {
         "name": "Wednesday",
-        "description": "11AM - 8PM",
+        "description": "11AM - 7PM",
         "isClosed": false
       },
       {
@@ -5692,12 +6267,17 @@
       },
       {
         "name": "Wednesday",
-        "description": "10AM - 9PM",
+        "description": "10AM - 11PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
         "name": "Friday",
-        "description": "9AM - 11PM",
+        "description": "10AM - 11PM",
         "isClosed": false
       },
       {
@@ -5737,7 +6317,12 @@
       },
       {
         "name": "Wednesday",
-        "description": "10AM - 8PM",
+        "description": "10AM - 9PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
@@ -5786,6 +6371,11 @@
         "isClosed": false
       },
       {
+        "name": "Thursday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
         "name": "Friday",
         "description": "10AM - 9PM",
         "isClosed": false
@@ -5827,7 +6417,12 @@
       },
       {
         "name": "Wednesday",
-        "description": "10AM - 8PM",
+        "description": "10AM - 9PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
@@ -5877,6 +6472,11 @@
         "isClosed": false
       },
       {
+        "name": "Thursday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
         "name": "Friday",
         "description": "10AM - 10PM",
         "isClosed": false
@@ -5919,7 +6519,12 @@
       },
       {
         "name": "Wednesday",
-        "description": "10AM - 9PM",
+        "description": "10AM - 11PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
@@ -5968,6 +6573,11 @@
         "isClosed": false
       },
       {
+        "name": "Thursday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
         "name": "Friday",
         "description": "10AM - 10PM",
         "isClosed": false
@@ -6005,6 +6615,16 @@
       },
       {
         "name": "Tuesday",
+        "description": "10AM - 9PM",
+        "isClosed": false
+      },
+      {
+        "name": "Wednesday",
+        "description": "10AM - 5PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
         "description": "10AM - 9PM",
         "isClosed": false
       },
@@ -6051,7 +6671,12 @@
       },
       {
         "name": "Wednesday",
-        "description": "10AM - 10PM",
+        "description": "10AM - 1AM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "10AM - 12PM",
         "isClosed": false
       },
       {
@@ -6097,7 +6722,12 @@
       },
       {
         "name": "Wednesday",
-        "description": "10AM - 8PM",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
@@ -6188,7 +6818,12 @@
       },
       {
         "name": "Wednesday",
-        "description": "10AM - 9PM",
+        "description": "10AM - 11PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
@@ -6234,12 +6869,17 @@
       },
       {
         "name": "Wednesday",
-        "description": "10AM - 9PM",
+        "description": "10AM - 1AM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "11AM - 9PM",
         "isClosed": false
       },
       {
         "name": "Friday",
-        "description": "11AM - 8PM",
+        "description": "11AM - 10PM",
         "isClosed": false
       },
       {
@@ -6279,7 +6919,12 @@
       },
       {
         "name": "Wednesday",
-        "description": "10AM - 8PM",
+        "description": "10AM - 7PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "11AM - 9PM",
         "isClosed": false
       },
       {
@@ -6324,7 +6969,12 @@
       },
       {
         "name": "Wednesday",
-        "description": "10AM - 8PM",
+        "description": "10AM - 9PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
@@ -6374,8 +7024,13 @@
         "isClosed": false
       },
       {
+        "name": "Thursday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
         "name": "Friday",
-        "description": "11AM - 9PM",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
@@ -6420,6 +7075,11 @@
         "isClosed": false
       },
       {
+        "name": "Thursday",
+        "description": "10AM - 9PM",
+        "isClosed": false
+      },
+      {
         "name": "Friday",
         "description": "10AM - 9PM",
         "isClosed": false
@@ -6461,7 +7121,12 @@
       },
       {
         "name": "Wednesday",
-        "description": "10AM - 10PM",
+        "description": "10AM - 1AM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "10AM - 11PM",
         "isClosed": false
       },
       {
@@ -6511,6 +7176,11 @@
         "isClosed": false
       },
       {
+        "name": "Thursday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
         "name": "Friday",
         "description": "10AM - 10PM",
         "isClosed": false
@@ -6552,7 +7222,12 @@
       },
       {
         "name": "Wednesday",
-        "description": "10AM - 4PM",
+        "description": "10AM - 9PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "10AM - 9PM",
         "isClosed": false
       },
       {
@@ -6594,6 +7269,16 @@
       {
         "name": "Tuesday",
         "description": "10AM - 9PM",
+        "isClosed": false
+      },
+      {
+        "name": "Wednesday",
+        "description": "10AM - 8PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "11AM - 9PM",
         "isClosed": false
       },
       {
@@ -6639,7 +7324,12 @@
       },
       {
         "name": "Wednesday",
-        "description": "10AM - 8PM",
+        "description": "10AM - 9PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
@@ -6684,7 +7374,12 @@
       },
       {
         "name": "Wednesday",
-        "description": "10AM - 8PM",
+        "description": "10AM - 9PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
@@ -6729,7 +7424,12 @@
       },
       {
         "name": "Wednesday",
-        "description": "10AM - 8PM",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "10AM - 9PM",
         "isClosed": false
       },
       {
@@ -6770,6 +7470,16 @@
       {
         "name": "Tuesday",
         "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Wednesday",
+        "description": "10AM - 8PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "11AM - 9PM",
         "isClosed": false
       },
       {
@@ -6815,7 +7525,12 @@
       },
       {
         "name": "Wednesday",
-        "description": "10AM - 8PM",
+        "description": "10AM - 9PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
@@ -6860,7 +7575,12 @@
       },
       {
         "name": "Wednesday",
-        "description": "10AM - 8PM",
+        "description": "10AM - 9PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
@@ -6905,7 +7625,12 @@
       },
       {
         "name": "Wednesday",
-        "description": "10AM - 8PM",
+        "description": "10AM - 9PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
@@ -6954,6 +7679,11 @@
         "isClosed": false
       },
       {
+        "name": "Thursday",
+        "description": "11AM - 9PM",
+        "isClosed": false
+      },
+      {
         "name": "Friday",
         "description": "11AM - 9PM",
         "isClosed": false
@@ -6995,7 +7725,12 @@
       },
       {
         "name": "Wednesday",
-        "description": "10AM - 8PM",
+        "description": "10AM - 9PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
@@ -7045,6 +7780,11 @@
         "isClosed": false
       },
       {
+        "name": "Thursday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
         "name": "Friday",
         "description": "10AM - 11PM",
         "isClosed": false
@@ -7087,7 +7827,12 @@
       },
       {
         "name": "Wednesday",
-        "description": "10AM - 8PM",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
@@ -7131,7 +7876,12 @@
       },
       {
         "name": "Wednesday",
-        "description": "10AM - 8PM",
+        "description": "10AM - 9PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
@@ -7176,7 +7926,12 @@
       },
       {
         "name": "Wednesday",
-        "description": "10AM - 10PM",
+        "description": "10AM - 11PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "10AM - 11PM",
         "isClosed": false
       },
       {
@@ -7222,6 +7977,11 @@
       {
         "name": "Wednesday",
         "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "11AM - 10PM",
         "isClosed": false
       },
       {
@@ -7316,7 +8076,12 @@
       },
       {
         "name": "Wednesday",
-        "description": "10AM - 2PM",
+        "description": "10AM - 8PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "10AM - 9PM",
         "isClosed": false
       },
       {
@@ -7361,7 +8126,7 @@
       },
       {
         "name": "Wednesday",
-        "description": "11AM - 6PM",
+        "description": "11AM - 7PM",
         "isClosed": false
       },
       {
@@ -7406,7 +8171,12 @@
       },
       {
         "name": "Wednesday",
-        "description": "10AM - 8PM",
+        "description": "10AM - 9PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
@@ -7451,7 +8221,12 @@
       },
       {
         "name": "Wednesday",
-        "description": "10AM - 8PM",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
@@ -7481,52 +8256,6 @@
     "longitude": null
   },
   {
-    "name": "Westfield Sydney",
-    "address": "Westfield Sydney, Level 6, 188 Pitt St",
-    "phone": "02 9223 7474",
-    "opening_hours": [
-      {
-        "name": "Monday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Tuesday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Wednesday",
-        "description": "10AM - 8PM",
-        "isClosed": false
-      },
-      {
-        "name": "Friday",
-        "description": "10AM - 8PM",
-        "isClosed": false
-      },
-      {
-        "name": "Saturday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Sunday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      }
-    ],
-    "url": "https://grilld.com.au/restaurants/new-south-wales/westfield-sydney",
-    "description": null,
-    "services": [
-      "Pick Up",
-      "Delivery",
-      "Catering"
-    ],
-    "latitude": null,
-    "longitude": null
-  },
-  {
     "name": "Whitford City",
     "address": "Shop 315 Westfield Whitford City, Cnr Marmion Ave & Whitfords Ave, HILLARYS",
     "phone": "08 9401 7941",
@@ -7543,6 +8272,11 @@
       },
       {
         "name": "Wednesday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
         "description": "10AM - 10PM",
         "isClosed": false
       },
@@ -7592,6 +8326,11 @@
         "isClosed": false
       },
       {
+        "name": "Thursday",
+        "description": "11AM - 11PM",
+        "isClosed": false
+      },
+      {
         "name": "Friday",
         "description": "10AM - 10PM",
         "isClosed": false
@@ -7634,7 +8373,7 @@
       },
       {
         "name": "Wednesday",
-        "description": "10AM - 9PM",
+        "description": "10AM - 11PM",
         "isClosed": false
       },
       {
@@ -7683,6 +8422,11 @@
         "isClosed": false
       },
       {
+        "name": "Thursday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
         "name": "Friday",
         "description": "10AM - 10PM",
         "isClosed": false
@@ -7725,7 +8469,12 @@
       },
       {
         "name": "Wednesday",
-        "description": "10AM - 8PM",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
@@ -7775,6 +8524,11 @@
         "isClosed": false
       },
       {
+        "name": "Thursday",
+        "description": "10AM - 9PM",
+        "isClosed": false
+      },
+      {
         "name": "Friday",
         "description": "10AM - 9PM",
         "isClosed": false
@@ -7816,7 +8570,12 @@
       },
       {
         "name": "Wednesday",
-        "description": "10AM - 8PM",
+        "description": "10AM - 9PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
@@ -7861,7 +8620,12 @@
       },
       {
         "name": "Wednesday",
-        "description": "10AM - 7PM",
+        "description": "10AM - 11PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
@@ -7908,6 +8672,11 @@
       {
         "name": "Wednesday",
         "description": "11AM - 5PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "11AM - 9PM",
         "isClosed": false
       },
       {
