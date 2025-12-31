@@ -954,6 +954,56 @@
     "longitude": null
   },
   {
+    "name": "Burpengary",
+    "address": "9 Burpengary Rd, BURPENGARY, QLD",
+    "phone": "07 3888 6365",
+    "opening_hours": [
+      {
+        "name": "Monday",
+        "description": "10AM - 9PM",
+        "isClosed": false
+      },
+      {
+        "name": "Tuesday",
+        "description": "10AM - 9PM",
+        "isClosed": false
+      },
+      {
+        "name": "Wednesday",
+        "description": "10AM - 9PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "10AM - 9PM",
+        "isClosed": false
+      },
+      {
+        "name": "Friday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Saturday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Sunday",
+        "description": "10AM - 9PM",
+        "isClosed": false
+      }
+    ],
+    "url": "https://grilld.com.au/restaurants/queensland/burpengary",
+    "description": null,
+    "services": [
+      "Pick Up",
+      "Delivery"
+    ],
+    "latitude": null,
+    "longitude": null
+  },
+  {
     "name": "Burwood",
     "address": "Shop 30 Burwood One Shopping Centre, 172 Burwood Hwy, BURWOOD EAST",
     "phone": "03 9802 0362",
@@ -1658,37 +1708,37 @@
     "opening_hours": [
       {
         "name": "Monday",
-        "description": "10AM - 11PM",
+        "description": "10AM - 8PM",
         "isClosed": false
       },
       {
         "name": "Tuesday",
-        "description": "10AM - 11PM",
+        "description": "10AM - 8PM",
         "isClosed": false
       },
       {
         "name": "Wednesday",
-        "description": "10AM - 6PM",
+        "description": "10AM - 8PM",
         "isClosed": false
       },
       {
         "name": "Thursday",
-        "description": "10AM - 6PM",
+        "description": "10AM - 8PM",
         "isClosed": false
       },
       {
         "name": "Friday",
-        "description": "10AM - 11PM",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
         "name": "Saturday",
-        "description": "10AM - 11PM",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
         "name": "Sunday",
-        "description": "10AM - 11PM",
+        "description": "10AM - 10PM",
         "isClosed": false
       }
     ],
@@ -2349,56 +2399,6 @@
       }
     ],
     "url": "https://grilld.com.au/restaurants/western-australia/currambine",
-    "description": null,
-    "services": [
-      "Pick Up",
-      "Delivery"
-    ],
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "name": "Darlinghurst Crown St",
-    "address": "241 Crown St, DARLINGHURST, NSW",
-    "phone": "02 9380 4800",
-    "opening_hours": [
-      {
-        "name": "Monday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Tuesday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Wednesday",
-        "description": "10AM - 11PM",
-        "isClosed": false
-      },
-      {
-        "name": "Thursday",
-        "description": "10AM - 11PM",
-        "isClosed": false
-      },
-      {
-        "name": "Friday",
-        "description": "10AM - 9PM",
-        "isClosed": false
-      },
-      {
-        "name": "Saturday",
-        "description": "10AM - 11PM",
-        "isClosed": false
-      },
-      {
-        "name": "Sunday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      }
-    ],
-    "url": "https://grilld.com.au/restaurants/new-south-wales/darlinghurst-crown-st",
     "description": null,
     "services": [
       "Pick Up",
@@ -3171,7 +3171,7 @@
       },
       {
         "name": "Tuesday",
-        "description": "10AM - 11PM",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
@@ -3181,17 +3181,17 @@
       },
       {
         "name": "Thursday",
-        "description": "10AM - 11PM",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
         "name": "Friday",
-        "description": "10AM - 11PM",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
         "name": "Saturday",
-        "description": "10AM - 11PM",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
@@ -4830,6 +4830,11 @@
         "isClosed": false
       },
       {
+        "name": "Wednesday",
+        "description": "10AM - 11PM",
+        "isClosed": false
+      },
+      {
         "name": "Thursday",
         "description": "10AM - 10PM",
         "isClosed": false
@@ -4967,12 +4972,12 @@
     "opening_hours": [
       {
         "name": "Monday",
-        "description": "10AM - 10PM",
+        "description": "10AM - 11PM",
         "isClosed": false
       },
       {
         "name": "Tuesday",
-        "description": "10AM - 10PM",
+        "description": "10AM - 11PM",
         "isClosed": false
       },
       {
@@ -4992,12 +4997,12 @@
       },
       {
         "name": "Saturday",
-        "description": "10AM - 10PM",
+        "description": "10AM - 11PM",
         "isClosed": false
       },
       {
         "name": "Sunday",
-        "description": "10AM - 10PM",
+        "description": "10AM - 11PM",
         "isClosed": false
       }
     ],
@@ -7866,12 +7871,12 @@
     "opening_hours": [
       {
         "name": "Monday",
-        "description": "10AM - 10PM",
+        "description": "10AM - 11PM",
         "isClosed": false
       },
       {
         "name": "Tuesday",
-        "description": "10AM - 10PM",
+        "description": "10AM - 11PM",
         "isClosed": false
       },
       {
@@ -7891,12 +7896,12 @@
       },
       {
         "name": "Saturday",
-        "description": "10AM - 10PM",
+        "description": "10AM - 11PM",
         "isClosed": false
       },
       {
         "name": "Sunday",
-        "description": "10AM - 10PM",
+        "description": "10AM - 11PM",
         "isClosed": false
       }
     ],
@@ -8026,7 +8031,7 @@
       },
       {
         "name": "Wednesday",
-        "description": "10AM - 8PM",
+        "description": "10AM - 5PM",
         "isClosed": false
       },
       {
@@ -8323,7 +8328,7 @@
       },
       {
         "name": "Wednesday",
-        "description": "10AM - 10PM",
+        "description": "10AM - 2AM",
         "isClosed": false
       },
       {
@@ -8333,7 +8338,7 @@
       },
       {
         "name": "Friday",
-        "description": "10AM - 10PM",
+        "description": "10AM - 1AM",
         "isClosed": false
       },
       {
