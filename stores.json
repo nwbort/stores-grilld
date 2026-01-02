@@ -1573,7 +1573,7 @@
       },
       {
         "name": "Thursday",
-        "description": "10AM - 10PM",
+        "description": "10AM - 11PM",
         "isClosed": false
       },
       {
@@ -2082,7 +2082,7 @@
       },
       {
         "name": "Friday",
-        "description": "9AM - 10PM",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
@@ -3677,7 +3677,7 @@
       },
       {
         "name": "Wednesday",
-        "description": "10AM - 9PM",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
@@ -3687,7 +3687,7 @@
       },
       {
         "name": "Friday",
-        "description": "10AM - 11PM",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
@@ -6027,7 +6027,7 @@
       },
       {
         "name": "Wednesday",
-        "description": "10AM - 9PM",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
