@@ -4778,57 +4778,6 @@
     "longitude": null
   },
   {
-    "name": "Macquarie Centre",
-    "address": "Macquarie Shopping Centre, Level 4, Cnr Waterloo Rd & Herring Rd",
-    "phone": "02 9888 7700",
-    "opening_hours": [
-      {
-        "name": "Monday",
-        "description": "10AM - 9PM",
-        "isClosed": false
-      },
-      {
-        "name": "Tuesday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Wednesday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Thursday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Friday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Saturday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Sunday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      }
-    ],
-    "url": "https://grilld.com.au/restaurants/new-south-wales/macquarie-centre",
-    "description": null,
-    "services": [
-      "Pick Up",
-      "Delivery",
-      "Catering"
-    ],
-    "latitude": null,
-    "longitude": null
-  },
-  {
     "name": "Malvern",
     "address": "217 Glenferrie Rd, MALVERN, VIC",
     "phone": "03 9500 8999",
@@ -4875,6 +4824,56 @@
       "Pick Up",
       "Delivery",
       "Catering"
+    ],
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "name": "Mandurah",
+    "address": "31 Mandurah Tce, MANDURAH, WA",
+    "phone": "08 9581 2656",
+    "opening_hours": [
+      {
+        "name": "Monday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Tuesday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Wednesday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Friday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Saturday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Sunday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      }
+    ],
+    "url": "https://grilld.com.au/restaurants/western-australia/mandurah",
+    "description": null,
+    "services": [
+      "Pick Up",
+      "Delivery"
     ],
     "latitude": null,
     "longitude": null
