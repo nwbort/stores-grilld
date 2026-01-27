@@ -1707,6 +1707,56 @@
     "longitude": null
   },
   {
+    "name": "Chadstone Centre",
+    "address": "Shop B - 341 Chadstone Shopping Centre, 1341 Dandenong Road, CHADSTONE",
+    "phone": "03 7040 6212",
+    "opening_hours": [
+      {
+        "name": "Monday",
+        "description": "10AM - 8PM",
+        "isClosed": false
+      },
+      {
+        "name": "Tuesday",
+        "description": "10AM - 8PM",
+        "isClosed": false
+      },
+      {
+        "name": "Wednesday",
+        "description": "10AM - 8PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Friday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Saturday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Sunday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      }
+    ],
+    "url": "https://grilld.com.au/restaurants/victoria/chadstone-centre",
+    "description": null,
+    "services": [
+      "Pick Up",
+      "Delivery"
+    ],
+    "latitude": null,
+    "longitude": null
+  },
+  {
     "name": "Chadstone Village",
     "address": "695 Warrigal Road, CHADSTONE, VIC",
     "phone": "03 7040 6213",
@@ -6643,37 +6693,37 @@
     "opening_hours": [
       {
         "name": "Monday",
-        "description": "10AM - 12PM",
+        "description": "10AM - 11PM",
         "isClosed": false
       },
       {
         "name": "Tuesday",
-        "description": "10AM - 12PM",
+        "description": "10AM - 11PM",
         "isClosed": false
       },
       {
         "name": "Wednesday",
-        "description": "10AM - 12PM",
+        "description": "10AM - 11PM",
         "isClosed": false
       },
       {
         "name": "Thursday",
-        "description": "10AM - 12PM",
+        "description": "10AM - 11PM",
         "isClosed": false
       },
       {
         "name": "Friday",
-        "description": "10AM - 1AM",
+        "description": "10AM - 11PM",
         "isClosed": false
       },
       {
         "name": "Saturday",
-        "description": "10AM - 1AM",
+        "description": "10AM - 11PM",
         "isClosed": false
       },
       {
         "name": "Sunday",
-        "description": "10AM - 12PM",
+        "description": "10AM - 11PM",
         "isClosed": false
       }
     ],
