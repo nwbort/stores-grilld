@@ -5068,37 +5068,37 @@
     "opening_hours": [
       {
         "name": "Monday",
-        "description": "8AM - 10PM",
+        "description": "6AM - 10PM",
         "isClosed": false
       },
       {
         "name": "Tuesday",
-        "description": "8AM - 10PM",
+        "description": "6AM - 10PM",
         "isClosed": false
       },
       {
         "name": "Wednesday",
-        "description": "8AM - 11PM",
+        "description": "6AM - 10PM",
         "isClosed": false
       },
       {
         "name": "Thursday",
-        "description": "8AM - 11PM",
+        "description": "6AM - 10PM",
         "isClosed": false
       },
       {
         "name": "Friday",
-        "description": "8AM - 11PM",
+        "description": "6AM - 10PM",
         "isClosed": false
       },
       {
         "name": "Saturday",
-        "description": "8AM - 11PM",
+        "description": "6AM - 10PM",
         "isClosed": false
       },
       {
         "name": "Sunday",
-        "description": "8AM - 11PM",
+        "description": "6AM - 10PM",
         "isClosed": false
       }
     ],
