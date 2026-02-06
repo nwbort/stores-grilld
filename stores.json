@@ -1,56 +1,5 @@
 [
   {
-    "name": "Albury",
-    "address": "460 Dean St, ALBURY, NSW",
-    "phone": "02 6021 5702",
-    "opening_hours": [
-      {
-        "name": "Monday",
-        "description": "10AM - 8PM",
-        "isClosed": false
-      },
-      {
-        "name": "Tuesday",
-        "description": "10AM - 8PM",
-        "isClosed": false
-      },
-      {
-        "name": "Wednesday",
-        "description": "10AM - 8PM",
-        "isClosed": false
-      },
-      {
-        "name": "Thursday",
-        "description": "10AM - 9PM",
-        "isClosed": false
-      },
-      {
-        "name": "Friday",
-        "description": "10AM - 9PM",
-        "isClosed": false
-      },
-      {
-        "name": "Saturday",
-        "description": "10AM - 9PM",
-        "isClosed": false
-      },
-      {
-        "name": "Sunday",
-        "description": "10AM - 8PM",
-        "isClosed": false
-      }
-    ],
-    "url": "https://grilld.com.au/restaurants/new-south-wales/albury",
-    "description": null,
-    "services": [
-      "Pick Up",
-      "Delivery",
-      "Catering"
-    ],
-    "latitude": null,
-    "longitude": null
-  },
-  {
     "name": "Altona North",
     "address": "290-298 Millers Rd, ALTONA NORTH, VIC",
     "phone": "03 7039 3666",
