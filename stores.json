@@ -552,6 +552,57 @@
     "longitude": null
   },
   {
+    "name": "Benowa Gardens",
+    "address": "Benowa Gardens Shopping Centre, Benowa Rd, BENOWA",
+    "phone": "07 5539 1999",
+    "opening_hours": [
+      {
+        "name": "Monday",
+        "description": "11AM - 9PM",
+        "isClosed": false
+      },
+      {
+        "name": "Tuesday",
+        "description": "11AM - 9PM",
+        "isClosed": false
+      },
+      {
+        "name": "Wednesday",
+        "description": "11AM - 9PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "11AM - 9PM",
+        "isClosed": false
+      },
+      {
+        "name": "Friday",
+        "description": "11AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Saturday",
+        "description": "11AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Sunday",
+        "description": "11AM - 9PM",
+        "isClosed": false
+      }
+    ],
+    "url": "https://grilld.com.au/restaurants/queensland/benowa-gardens",
+    "description": null,
+    "services": [
+      "Pick Up",
+      "Delivery",
+      "Catering"
+    ],
+    "latitude": null,
+    "longitude": null
+  },
+  {
     "name": "Blacktown",
     "address": "Level 4, Shop 4007/17 Patrick St, BLACKTOWN",
     "phone": "(02) 8889 3195",
@@ -909,7 +960,7 @@
     "opening_hours": [
       {
         "name": "Monday",
-        "description": "10AM - 3PM",
+        "description": "10AM - 9PM",
         "isClosed": false
       },
       {
@@ -1612,7 +1663,7 @@
     "opening_hours": [
       {
         "name": "Monday",
-        "description": "10AM - 4PM",
+        "description": "10AM - 9PM",
         "isClosed": false
       },
       {
@@ -3020,7 +3071,7 @@
     "opening_hours": [
       {
         "name": "Monday",
-        "description": "10AM - 3PM",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
@@ -4174,6 +4225,56 @@
     "longitude": null
   },
   {
+    "name": "Kawana",
+    "address": "Shop 406, Kawana Shopping Town, 119 Cartwright Dr",
+    "phone": "07 5444 0455",
+    "opening_hours": [
+      {
+        "name": "Monday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Tuesday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Wednesday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Friday",
+        "description": "10AM - 11PM",
+        "isClosed": false
+      },
+      {
+        "name": "Saturday",
+        "description": "10AM - 11PM",
+        "isClosed": false
+      },
+      {
+        "name": "Sunday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      }
+    ],
+    "url": "https://grilld.com.au/restaurants/queensland/kawana",
+    "description": null,
+    "services": [
+      "Pick Up",
+      "Delivery"
+    ],
+    "latitude": null,
+    "longitude": null
+  },
+  {
     "name": "Kenmore",
     "address": "841 Moggill Rd, KENMORE, QLD",
     "phone": "(07) 3115 0992",
@@ -4785,7 +4886,7 @@
     "opening_hours": [
       {
         "name": "Monday",
-        "description": "10AM - 3PM",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
@@ -6282,6 +6383,56 @@
     "longitude": null
   },
   {
+    "name": "Rockingham",
+    "address": "Rockingham Shopping Centre, 1 Council Ave, ROCKINGHAM",
+    "phone": "08 9527 4299",
+    "opening_hours": [
+      {
+        "name": "Monday",
+        "description": "10AM - 4PM",
+        "isClosed": false
+      },
+      {
+        "name": "Tuesday",
+        "description": "10AM - 9PM",
+        "isClosed": false
+      },
+      {
+        "name": "Wednesday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Friday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Saturday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Sunday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      }
+    ],
+    "url": "https://grilld.com.au/restaurants/western-australia/rockingham",
+    "description": null,
+    "services": [
+      "Pick Up",
+      "Delivery"
+    ],
+    "latitude": null,
+    "longitude": null
+  },
+  {
     "name": "Rosalie",
     "address": "19-21 Nash St, ROSALIE, QLD",
     "phone": "07 3367 1555",
@@ -7037,6 +7188,55 @@
       "Pick Up",
       "Delivery",
       "Catering"
+    ],
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "name": "Swanston Street",
+    "address": "107-109 Swanston St, MELBOURNE, VIC",
+    "phone": "(03) 7071 9090",
+    "opening_hours": [
+      {
+        "name": "Monday",
+        "description": "9AM - 11PM",
+        "isClosed": false
+      },
+      {
+        "name": "Tuesday",
+        "description": "9AM - 11PM",
+        "isClosed": false
+      },
+      {
+        "name": "Wednesday",
+        "description": "9AM - 11PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "9AM - 11PM",
+        "isClosed": false
+      },
+      {
+        "name": "Friday",
+        "description": "9AM - 11PM",
+        "isClosed": false
+      },
+      {
+        "name": "Saturday",
+        "description": "9AM - 11PM",
+        "isClosed": false
+      },
+      {
+        "name": "Sunday",
+        "description": "9AM - 11PM",
+        "isClosed": false
+      }
+    ],
+    "url": "https://grilld.com.au/restaurants/victoria/swanston-street",
+    "description": null,
+    "services": [
+      "Pick Up"
     ],
     "latitude": null,
     "longitude": null
@@ -8496,7 +8696,8 @@
     "description": null,
     "services": [
       "Pick Up",
-      "Delivery"
+      "Delivery",
+      "Catering"
     ],
     "latitude": null,
     "longitude": null
