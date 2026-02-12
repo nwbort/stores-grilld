@@ -107,7 +107,7 @@
     "opening_hours": [
       {
         "name": "Monday",
-        "description": "10AM - 4PM",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
@@ -258,7 +258,7 @@
     "opening_hours": [
       {
         "name": "Monday",
-        "description": "10AM - 4PM",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
@@ -1563,7 +1563,7 @@
     "opening_hours": [
       {
         "name": "Monday",
-        "description": "10AM - 4PM",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
@@ -1967,7 +1967,7 @@
     "opening_hours": [
       {
         "name": "Monday",
-        "description": "10AM - 4PM",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
@@ -2067,7 +2067,7 @@
     "opening_hours": [
       {
         "name": "Monday",
-        "description": "10AM - 4PM",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
@@ -2211,56 +2211,6 @@
     "longitude": null
   },
   {
-    "name": "Cottesloe",
-    "address": "6 Napoleon St, COTTESLOE, WA",
-    "phone": "08 9383 4788",
-    "opening_hours": [
-      {
-        "name": "Monday",
-        "description": "10AM - 4PM",
-        "isClosed": false
-      },
-      {
-        "name": "Tuesday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Wednesday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Thursday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Friday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Saturday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Sunday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      }
-    ],
-    "url": "https://grilld.com.au/restaurants/western-australia/cottesloe",
-    "description": null,
-    "services": [
-      "Pick Up",
-      "Delivery"
-    ],
-    "latitude": null,
-    "longitude": null
-  },
-  {
     "name": "Crows Nest",
     "address": "57 Willoughby Rd, CROWS NEST, NSW",
     "phone": "02 9436 0699",
@@ -2369,7 +2319,7 @@
     "opening_hours": [
       {
         "name": "Monday",
-        "description": "10AM - 4PM",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
@@ -3321,7 +3271,7 @@
     "opening_hours": [
       {
         "name": "Monday",
-        "description": "10AM - 4PM",
+        "description": "10AM - 11PM",
         "isClosed": false
       },
       {
@@ -3524,7 +3474,7 @@
     "opening_hours": [
       {
         "name": "Monday",
-        "description": "10AM - 4PM",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
@@ -3727,7 +3677,7 @@
     "opening_hours": [
       {
         "name": "Monday",
-        "description": "10AM - 4PM",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
@@ -3930,7 +3880,7 @@
     "opening_hours": [
       {
         "name": "Monday",
-        "description": "10AM - 4PM",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
@@ -4030,7 +3980,7 @@
     "opening_hours": [
       {
         "name": "Monday",
-        "description": "10AM - 4PM",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
@@ -4081,7 +4031,7 @@
     "opening_hours": [
       {
         "name": "Monday",
-        "description": "10AM - 4PM",
+        "description": "10AM - 9PM",
         "isClosed": false
       },
       {
@@ -4181,7 +4131,7 @@
     "opening_hours": [
       {
         "name": "Monday",
-        "description": "10AM - 4PM",
+        "description": "10AM - 9PM",
         "isClosed": false
       },
       {
@@ -4331,7 +4281,7 @@
     "opening_hours": [
       {
         "name": "Monday",
-        "description": "10AM - 4PM",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
@@ -4583,7 +4533,7 @@
     "opening_hours": [
       {
         "name": "Monday",
-        "description": "10AM - 4PM",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
@@ -5237,7 +5187,7 @@
     "opening_hours": [
       {
         "name": "Monday",
-        "description": "10AM - 4PM",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
@@ -5438,7 +5388,7 @@
     "opening_hours": [
       {
         "name": "Monday",
-        "description": "10AM - 4PM",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
@@ -5989,7 +5939,7 @@
     "opening_hours": [
       {
         "name": "Monday",
-        "description": "11AM - 4PM",
+        "description": "11AM - 9PM",
         "isClosed": false
       },
       {
@@ -6389,7 +6339,7 @@
     "opening_hours": [
       {
         "name": "Monday",
-        "description": "10AM - 4PM",
+        "description": "10AM - 9PM",
         "isClosed": false
       },
       {
@@ -6591,7 +6541,7 @@
     "opening_hours": [
       {
         "name": "Monday",
-        "description": "10AM - 4PM",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
@@ -7047,7 +6997,7 @@
     "opening_hours": [
       {
         "name": "Monday",
-        "description": "10AM - 4PM",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
@@ -7195,7 +7145,7 @@
   {
     "name": "Swanston Street",
     "address": "107-109 Swanston St, MELBOURNE, VIC",
-    "phone": "(03) 7071 9090",
+    "phone": "0396630399",
     "opening_hours": [
       {
         "name": "Monday",
@@ -7853,7 +7803,7 @@
     "opening_hours": [
       {
         "name": "Monday",
-        "description": "10AM - 4PM",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
@@ -8003,7 +7953,7 @@
     "opening_hours": [
       {
         "name": "Monday",
-        "description": "10AM - 4PM",
+        "description": "10AM - 11PM",
         "isClosed": false
       },
       {
@@ -8054,7 +8004,7 @@
     "opening_hours": [
       {
         "name": "Monday",
-        "description": "10AM - 4PM",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
@@ -8406,7 +8356,7 @@
     "opening_hours": [
       {
         "name": "Monday",
-        "description": "10AM - 4PM",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
@@ -8456,7 +8406,7 @@
     "opening_hours": [
       {
         "name": "Monday",
-        "description": "10AM - 4PM",
+        "description": "10AM - 11PM",
         "isClosed": false
       },
       {
