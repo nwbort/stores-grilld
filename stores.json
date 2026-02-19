@@ -8163,6 +8163,56 @@
     "longitude": null
   },
   {
+    "name": "Werribee",
+    "address": "Shop re 04 Werribee Plaza Urban Diner Precinct, 225 Derrimut Rd, WERRIBEE",
+    "phone": "03 9748 7511",
+    "opening_hours": [
+      {
+        "name": "Monday",
+        "description": "11AM - 9PM",
+        "isClosed": false
+      },
+      {
+        "name": "Tuesday",
+        "description": "11AM - 9PM",
+        "isClosed": false
+      },
+      {
+        "name": "Wednesday",
+        "description": "11AM - 9PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "11AM - 9PM",
+        "isClosed": false
+      },
+      {
+        "name": "Friday",
+        "description": "11AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Saturday",
+        "description": "11AM - 9PM",
+        "isClosed": false
+      },
+      {
+        "name": "Sunday",
+        "description": "11AM - 9PM",
+        "isClosed": false
+      }
+    ],
+    "url": "https://grilld.com.au/restaurants/victoria/werribee",
+    "description": null,
+    "services": [
+      "Pick Up",
+      "Delivery"
+    ],
+    "latitude": null,
+    "longitude": null
+  },
+  {
     "name": "West Gosford",
     "address": "Shop 29-31/299 Brisbane Water Dr, WEST GOSFORD, NSW",
     "phone": "(02) 4325 5927",
