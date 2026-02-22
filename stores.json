@@ -352,55 +352,6 @@
     "longitude": null
   },
   {
-    "name": "Ballarat",
-    "address": "37 Sturt St, BALLARAT, VIC",
-    "phone": "03 5331 2651 ",
-    "opening_hours": [
-      {
-        "name": "Monday",
-        "description": "10AM - 9PM",
-        "isClosed": false
-      },
-      {
-        "name": "Tuesday",
-        "description": "10AM - 9PM",
-        "isClosed": false
-      },
-      {
-        "name": "Wednesday",
-        "description": "10AM - 9PM",
-        "isClosed": false
-      },
-      {
-        "name": "Thursday",
-        "description": "10AM - 9PM",
-        "isClosed": false
-      },
-      {
-        "name": "Friday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Saturday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Sunday",
-        "description": "10AM - 9PM",
-        "isClosed": false
-      }
-    ],
-    "url": "https://grilld.com.au/restaurants/victoria/ballarat",
-    "description": null,
-    "services": [
-      "Pick Up"
-    ],
-    "latitude": null,
-    "longitude": null
-  },
-  {
     "name": "Baulkham Hills",
     "address": "Shop 1 30-32 Old Northern Road, BAULKHAM HILLS, NSW",
     "phone": "0279040633",
@@ -4320,57 +4271,6 @@
     "services": [
       "Pick Up",
       "Delivery"
-    ],
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "name": "Kingsway",
-    "address": "Shop 62, Kingsway Shopping Centre, 166 Wanneroo Rd",
-    "phone": "(08) 6158 4872",
-    "opening_hours": [
-      {
-        "name": "Monday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Tuesday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Wednesday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Thursday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Friday",
-        "description": "10AM - 11PM",
-        "isClosed": false
-      },
-      {
-        "name": "Saturday",
-        "description": "10AM - 11PM",
-        "isClosed": false
-      },
-      {
-        "name": "Sunday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      }
-    ],
-    "url": "https://grilld.com.au/restaurants/western-australia/kingsway",
-    "description": null,
-    "services": [
-      "Pick Up",
-      "Delivery",
-      "Catering"
     ],
     "latitude": null,
     "longitude": null
