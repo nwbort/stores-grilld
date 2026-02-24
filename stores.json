@@ -7165,8 +7165,7 @@
     "description": null,
     "services": [
       "Pick Up",
-      "Delivery",
-      "Catering"
+      "Delivery"
     ],
     "latitude": null,
     "longitude": null
