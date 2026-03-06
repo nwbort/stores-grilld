@@ -2463,6 +2463,56 @@
     "longitude": null
   },
   {
+    "name": "Dee Why",
+    "address": "Shop 10-11, Corner Howard Ave & PIttwater Rd, DEE WHY",
+    "phone": "02 9188 8396",
+    "opening_hours": [
+      {
+        "name": "Monday",
+        "description": "11AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Tuesday",
+        "description": "11AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Wednesday",
+        "description": "11AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "11AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Friday",
+        "description": "11AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Saturday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Sunday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      }
+    ],
+    "url": "https://grilld.com.au/restaurants/new-south-wales/dee-why",
+    "description": null,
+    "services": [
+      "Pick Up",
+      "Delivery"
+    ],
+    "latitude": null,
+    "longitude": null
+  },
+  {
     "name": "Degraves Street",
     "address": "15 Degraves St, MELBOURNE, VIC",
     "phone": "03 9654 7666",
@@ -8533,7 +8583,7 @@
   {
     "name": "Wollongong",
     "address": "Wollongong Central Shopping Centre GD, W125/200 Crown St, WOLLONGONG",
-    "phone": "0499943603",
+    "phone": "(02) 4215 6999",
     "opening_hours": [
       {
         "name": "Monday",
