@@ -8581,57 +8581,6 @@
     "longitude": null
   },
   {
-    "name": "Wollongong",
-    "address": "Wollongong Central Shopping Centre GD, W125/200 Crown St, WOLLONGONG",
-    "phone": "(02) 4215 6999",
-    "opening_hours": [
-      {
-        "name": "Monday",
-        "description": "10AM - 9PM",
-        "isClosed": false
-      },
-      {
-        "name": "Tuesday",
-        "description": "10AM - 9PM",
-        "isClosed": false
-      },
-      {
-        "name": "Wednesday",
-        "description": "10AM - 9PM",
-        "isClosed": false
-      },
-      {
-        "name": "Thursday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Friday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Saturday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Sunday",
-        "description": "10AM - 9PM",
-        "isClosed": false
-      }
-    ],
-    "url": "https://grilld.com.au/restaurants/new-south-wales/wollongong",
-    "description": null,
-    "services": [
-      "Pick Up",
-      "Delivery",
-      "Catering"
-    ],
-    "latitude": null,
-    "longitude": null
-  },
-  {
     "name": "Woodgrove",
     "address": "Woodgrove Shopping Centre, 533-355 High St, MELTON",
     "phone": "03 9747 2921",
