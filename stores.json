@@ -1111,17 +1111,17 @@
     "opening_hours": [
       {
         "name": "Monday",
-        "description": "10AM - 10PM",
+        "description": "10AM - 9PM",
         "isClosed": false
       },
       {
         "name": "Tuesday",
-        "description": "10AM - 10PM",
+        "description": "10AM - 9PM",
         "isClosed": false
       },
       {
         "name": "Wednesday",
-        "description": "10AM - 10PM",
+        "description": "10AM - 9PM",
         "isClosed": false
       },
       {
@@ -1141,7 +1141,7 @@
       },
       {
         "name": "Sunday",
-        "description": "10AM - 10PM",
+        "description": "10AM - 9PM",
         "isClosed": false
       }
     ],
@@ -1161,37 +1161,37 @@
     "opening_hours": [
       {
         "name": "Monday",
-        "description": "10AM - 10PM",
+        "description": "11AM - 10PM",
         "isClosed": false
       },
       {
         "name": "Tuesday",
-        "description": "10AM - 10PM",
+        "description": "11AM - 10PM",
         "isClosed": false
       },
       {
         "name": "Wednesday",
-        "description": "10AM - 10PM",
+        "description": "11AM - 10PM",
         "isClosed": false
       },
       {
         "name": "Thursday",
-        "description": "10AM - 10PM",
+        "description": "11AM - 10PM",
         "isClosed": false
       },
       {
         "name": "Friday",
-        "description": "10AM - 10PM",
+        "description": "11AM - 10PM",
         "isClosed": false
       },
       {
         "name": "Saturday",
-        "description": "10AM - 10PM",
+        "description": "11AM - 10PM",
         "isClosed": false
       },
       {
         "name": "Sunday",
-        "description": "10AM - 10PM",
+        "description": "11AM - 10PM",
         "isClosed": false
       }
     ],
@@ -2264,43 +2264,7 @@
     "name": "Crows Nest",
     "address": "57 Willoughby Rd, CROWS NEST, NSW",
     "phone": "02 9436 0699",
-    "opening_hours": [
-      {
-        "name": "Monday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Tuesday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Wednesday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Thursday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Friday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Saturday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Sunday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      }
-    ],
+    "opening_hours": [],
     "url": "https://grilld.com.au/restaurants/new-south-wales/crows-nest",
     "description": null,
     "services": [
@@ -5689,27 +5653,27 @@
     "opening_hours": [
       {
         "name": "Monday",
-        "description": "11AM - 10PM",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
         "name": "Tuesday",
-        "description": "11AM - 10PM",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
         "name": "Wednesday",
-        "description": "11AM - 10PM",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
         "name": "Thursday",
-        "description": "11AM - 10PM",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
         "name": "Friday",
-        "description": "11AM - 10PM",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
@@ -6039,17 +6003,17 @@
     "opening_hours": [
       {
         "name": "Monday",
-        "description": "10AM - 10PM",
+        "description": "10AM - 9PM",
         "isClosed": false
       },
       {
         "name": "Tuesday",
-        "description": "10AM - 10PM",
+        "description": "10AM - 9PM",
         "isClosed": false
       },
       {
         "name": "Wednesday",
-        "description": "10AM - 10PM",
+        "description": "10AM - 9PM",
         "isClosed": false
       },
       {
@@ -6069,7 +6033,7 @@
       },
       {
         "name": "Sunday",
-        "description": "10AM - 10PM",
+        "description": "10AM - 9PM",
         "isClosed": false
       }
     ],
@@ -8370,16 +8334,6 @@
     "opening_hours": [
       {
         "name": "Monday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Tuesday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Wednesday",
         "description": "10AM - 10PM",
         "isClosed": false
       },
