@@ -2577,55 +2577,6 @@
     "longitude": null
   },
   {
-    "name": "Drummoyne",
-    "address": "207 - 211 Lyons Road, DRUMMOYNE, NSW",
-    "phone": "02 9179 3422",
-    "opening_hours": [
-      {
-        "name": "Monday",
-        "description": "11AM - 9PM",
-        "isClosed": false
-      },
-      {
-        "name": "Tuesday",
-        "description": "11AM - 9PM",
-        "isClosed": false
-      },
-      {
-        "name": "Wednesday",
-        "description": "11AM - 9PM",
-        "isClosed": false
-      },
-      {
-        "name": "Thursday",
-        "description": "11AM - 9PM",
-        "isClosed": false
-      },
-      {
-        "name": "Friday",
-        "description": "11AM - 9PM",
-        "isClosed": false
-      },
-      {
-        "name": "Saturday",
-        "description": "11AM - 9PM",
-        "isClosed": false
-      },
-      {
-        "name": "Sunday",
-        "description": "11AM - 9PM",
-        "isClosed": false
-      }
-    ],
-    "url": "https://grilld.com.au/restaurants/new-south-wales/drummoyne",
-    "description": null,
-    "services": [
-      "Pick Up"
-    ],
-    "latitude": null,
-    "longitude": null
-  },
-  {
     "name": "Eastland",
     "address": "Shop 2054 Eastland Shopping Centre, 175 Maroondah Hwy, RINGWOOD",
     "phone": "03 9088 1842",
@@ -3274,6 +3225,57 @@
     "services": [
       "Pick Up",
       "Delivery"
+    ],
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "name": "Fremantle",
+    "address": "Cnr South Tce & Collie St, FREMANTLE, WA",
+    "phone": "08 9335 3000",
+    "opening_hours": [
+      {
+        "name": "Monday",
+        "description": "10AM - 11PM",
+        "isClosed": false
+      },
+      {
+        "name": "Tuesday",
+        "description": "10AM - 11PM",
+        "isClosed": false
+      },
+      {
+        "name": "Wednesday",
+        "description": "10AM - 11PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "10AM - 11PM",
+        "isClosed": false
+      },
+      {
+        "name": "Friday",
+        "description": "10AM - 11PM",
+        "isClosed": false
+      },
+      {
+        "name": "Saturday",
+        "description": "10AM - 11PM",
+        "isClosed": false
+      },
+      {
+        "name": "Sunday",
+        "description": "10AM - 11PM",
+        "isClosed": false
+      }
+    ],
+    "url": "https://grilld.com.au/restaurants/western-australia/fremantle",
+    "description": null,
+    "services": [
+      "Pick Up",
+      "Delivery",
+      "Catering"
     ],
     "latitude": null,
     "longitude": null
