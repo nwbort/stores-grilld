@@ -2265,7 +2265,43 @@
     "name": "Crows Nest",
     "address": "57 Willoughby Rd, CROWS NEST, NSW",
     "phone": "02 9436 0699",
-    "opening_hours": [],
+    "opening_hours": [
+      {
+        "name": "Monday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Tuesday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Wednesday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Friday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Saturday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Sunday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      }
+    ],
     "url": "https://grilld.com.au/restaurants/new-south-wales/crows-nest",
     "description": null,
     "services": [
@@ -3737,6 +3773,57 @@
     "longitude": null
   },
   {
+    "name": "Hawthorn",
+    "address": "754 Glenferrie Rd, HAWTHORN, VIC",
+    "phone": "03 9819 0004",
+    "opening_hours": [
+      {
+        "name": "Monday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Tuesday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Wednesday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Friday",
+        "description": "10AM - 11PM",
+        "isClosed": false
+      },
+      {
+        "name": "Saturday",
+        "description": "10AM - 11PM",
+        "isClosed": false
+      },
+      {
+        "name": "Sunday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      }
+    ],
+    "url": "https://grilld.com.au/restaurants/victoria/hawthorn",
+    "description": null,
+    "services": [
+      "Pick Up",
+      "Delivery",
+      "Catering"
+    ],
+    "latitude": null,
+    "longitude": null
+  },
+  {
     "name": "Heatherton",
     "address": "376 Warrigal Rd, HEATHERTON, VIC",
     "phone": "03 9558 2301",
@@ -4825,12 +4912,12 @@
       },
       {
         "name": "Saturday",
-        "description": "10AM - 11PM",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
         "name": "Sunday",
-        "description": "10AM - 11PM",
+        "description": "10AM - 10PM",
         "isClosed": false
       }
     ],
