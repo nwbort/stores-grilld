@@ -2038,12 +2038,12 @@
       },
       {
         "name": "Friday",
-        "description": "10AM - 10PM",
+        "description": "10AM - 1AM",
         "isClosed": false
       },
       {
         "name": "Saturday",
-        "description": "10AM - 10PM",
+        "description": "10AM - 1AM",
         "isClosed": false
       },
       {
@@ -7546,6 +7546,57 @@
     "longitude": null
   },
   {
+    "name": "Townsville",
+    "address": "3 Palmer St, TOWNSVILLE, QLD",
+    "phone": "07 4725 4268",
+    "opening_hours": [
+      {
+        "name": "Monday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Tuesday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Wednesday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Friday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Saturday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Sunday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      }
+    ],
+    "url": "https://grilld.com.au/restaurants/queensland/townsville",
+    "description": null,
+    "services": [
+      "Pick Up",
+      "Delivery",
+      "Catering"
+    ],
+    "latitude": null,
+    "longitude": null
+  },
+  {
     "name": "Tuggerah",
     "address": "50 Wyong Rd, TUGGERAH, NSW",
     "phone": "02 4351 3055",
@@ -8113,8 +8164,13 @@
         "isClosed": false
       },
       {
+        "name": "Wednesday",
+        "description": "10AM - 9PM",
+        "isClosed": false
+      },
+      {
         "name": "Thursday",
-        "description": "5PM - 9PM",
+        "description": "10AM - 9PM",
         "isClosed": false
       },
       {
@@ -8351,6 +8407,16 @@
     "opening_hours": [
       {
         "name": "Monday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Tuesday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Wednesday",
         "description": "10AM - 10PM",
         "isClosed": false
       },
