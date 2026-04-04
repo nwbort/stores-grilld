@@ -909,6 +909,11 @@
     "phone": "03 9466 7654",
     "opening_hours": [
       {
+        "name": "Monday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
         "name": "Tuesday",
         "description": "10AM - 10PM",
         "isClosed": false
@@ -926,6 +931,11 @@
       {
         "name": "Friday",
         "description": "11AM - 9PM",
+        "isClosed": false
+      },
+      {
+        "name": "Saturday",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
@@ -2798,6 +2808,11 @@
     "phone": "03 9439 8455",
     "opening_hours": [
       {
+        "name": "Monday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
         "name": "Tuesday",
         "description": "10AM - 10PM",
         "isClosed": false
@@ -2818,6 +2833,11 @@
         "isClosed": false
       },
       {
+        "name": "Saturday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
         "name": "Sunday",
         "description": "11AM - 9PM",
         "isClosed": false
@@ -2827,7 +2847,6 @@
     "description": null,
     "services": [
       "Pick Up",
-      "Park & Collect",
       "Delivery"
     ],
     "latitude": null,
@@ -6609,7 +6628,7 @@
     "opening_hours": [
       {
         "name": "Monday",
-        "description": "10AM - 8PM",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
@@ -6629,17 +6648,17 @@
       },
       {
         "name": "Friday",
-        "description": "10AM - 8PM",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
         "name": "Saturday",
-        "description": "10AM - 8PM",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
         "name": "Sunday",
-        "description": "10AM - 8PM",
+        "description": "10AM - 10PM",
         "isClosed": false
       }
     ],
@@ -8104,6 +8123,56 @@
     "longitude": null
   },
   {
+    "name": "Werribee",
+    "address": "Shop re 04 Werribee Plaza Urban Diner Precinct, 225 Derrimut Rd, WERRIBEE",
+    "phone": "03 9748 7511",
+    "opening_hours": [
+      {
+        "name": "Monday",
+        "description": "11AM - 9PM",
+        "isClosed": false
+      },
+      {
+        "name": "Tuesday",
+        "description": "11AM - 9PM",
+        "isClosed": false
+      },
+      {
+        "name": "Wednesday",
+        "description": "11AM - 9PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "11AM - 9PM",
+        "isClosed": false
+      },
+      {
+        "name": "Friday",
+        "description": "11AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Saturday",
+        "description": "11AM - 9PM",
+        "isClosed": false
+      },
+      {
+        "name": "Sunday",
+        "description": "11AM - 9PM",
+        "isClosed": false
+      }
+    ],
+    "url": "https://grilld.com.au/restaurants/victoria/werribee",
+    "description": null,
+    "services": [
+      "Pick Up",
+      "Delivery"
+    ],
+    "latitude": null,
+    "longitude": null
+  },
+  {
     "name": "West Gosford",
     "address": "Shop 29-31/299 Brisbane Water Dr, WEST GOSFORD, NSW",
     "phone": "(02) 4325 5927",
@@ -8545,51 +8614,6 @@
       "Pick Up",
       "Delivery",
       "Catering"
-    ],
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "name": "Woodgrove",
-    "address": "Woodgrove Shopping Centre, 533-355 High St, MELTON",
-    "phone": "03 9747 2921",
-    "opening_hours": [
-      {
-        "name": "Monday",
-        "description": "10AM - 9PM",
-        "isClosed": false
-      },
-      {
-        "name": "Tuesday",
-        "description": "10AM - 9PM",
-        "isClosed": false
-      },
-      {
-        "name": "Wednesday",
-        "description": "10AM - 9PM",
-        "isClosed": false
-      },
-      {
-        "name": "Thursday",
-        "description": "10AM - 9PM",
-        "isClosed": false
-      },
-      {
-        "name": "Saturday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Sunday",
-        "description": "11AM - 8PM",
-        "isClosed": false
-      }
-    ],
-    "url": "https://grilld.com.au/restaurants/victoria/woodgrove",
-    "description": null,
-    "services": [
-      "Pick Up",
-      "Delivery"
     ],
     "latitude": null,
     "longitude": null
