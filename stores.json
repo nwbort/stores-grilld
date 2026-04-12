@@ -7687,7 +7687,7 @@
     "opening_hours": [
       {
         "name": "Monday",
-        "description": "10AM - 8PM",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
@@ -7707,17 +7707,17 @@
       },
       {
         "name": "Friday",
-        "description": "11AM - 8PM",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
         "name": "Saturday",
-        "description": "10AM - 8PM",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
         "name": "Sunday",
-        "description": "10AM - 8PM",
+        "description": "10AM - 10PM",
         "isClosed": false
       }
     ],
