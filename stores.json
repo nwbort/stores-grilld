@@ -2564,6 +2564,56 @@
     "longitude": null
   },
   {
+    "name": "Doncaster",
+    "address": "Westfield Doncaster, 619 Doncaster Rd, DONCASTER",
+    "phone": "03 9848 3866",
+    "opening_hours": [
+      {
+        "name": "Monday",
+        "description": "10AM - 8PM",
+        "isClosed": false
+      },
+      {
+        "name": "Tuesday",
+        "description": "10AM - 8PM",
+        "isClosed": false
+      },
+      {
+        "name": "Wednesday",
+        "description": "10AM - 8PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Friday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Saturday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Sunday",
+        "description": "10AM - 9PM",
+        "isClosed": false
+      }
+    ],
+    "url": "https://grilld.com.au/restaurants/victoria/doncaster",
+    "description": null,
+    "services": [
+      "Pick Up",
+      "Delivery"
+    ],
+    "latitude": null,
+    "longitude": null
+  },
+  {
     "name": "Drummoyne",
     "address": "207 - 211 Lyons Road, DRUMMOYNE, NSW",
     "phone": "02 9179 3422",
@@ -7002,7 +7052,7 @@
       },
       {
         "name": "Friday",
-        "description": "10AM - 11PM",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
