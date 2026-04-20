@@ -3467,6 +3467,56 @@
     "longitude": null
   },
   {
+    "name": "Geelong South",
+    "address": "2-6 Fyans Street, GEELONG, VIC",
+    "phone": "(03) 4249 3221",
+    "opening_hours": [
+      {
+        "name": "Monday",
+        "description": "10AM - 11PM",
+        "isClosed": false
+      },
+      {
+        "name": "Tuesday",
+        "description": "10AM - 11PM",
+        "isClosed": false
+      },
+      {
+        "name": "Wednesday",
+        "description": "10AM - 11PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "10AM - 11PM",
+        "isClosed": false
+      },
+      {
+        "name": "Friday",
+        "description": "10AM - 11PM",
+        "isClosed": false
+      },
+      {
+        "name": "Saturday",
+        "description": "10AM - 11PM",
+        "isClosed": false
+      },
+      {
+        "name": "Sunday",
+        "description": "10AM - 11PM",
+        "isClosed": false
+      }
+    ],
+    "url": "https://grilld.com.au/restaurants/victoria/geelong-south",
+    "description": null,
+    "services": [
+      "Pick Up",
+      "Delivery"
+    ],
+    "latitude": null,
+    "longitude": null
+  },
+  {
     "name": "Glen Waverley",
     "address": "89 Kingsway, GLEN WAVERLEY, VIC",
     "phone": "03 9561 6904",
@@ -5077,6 +5127,55 @@
       "Drive Thru",
       "Pick Up",
       "Delivery"
+    ],
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "name": "Melbourne Airport",
+    "address": "Site IQL5, Terminal 2, Melbourne Airport",
+    "phone": "03 9330 4994",
+    "opening_hours": [
+      {
+        "name": "Monday",
+        "description": "6AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Tuesday",
+        "description": "6AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Wednesday",
+        "description": "6AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "6AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Friday",
+        "description": "6AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Saturday",
+        "description": "6AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Sunday",
+        "description": "6AM - 10PM",
+        "isClosed": false
+      }
+    ],
+    "url": "https://grilld.com.au/restaurants/victoria/melbourne-airport",
+    "description": null,
+    "services": [
+      "Pick Up"
     ],
     "latitude": null,
     "longitude": null
