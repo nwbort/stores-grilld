@@ -2073,7 +2073,7 @@
       },
       {
         "name": "Tuesday",
-        "description": "10AM - 7PM",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
@@ -2118,22 +2118,22 @@
     "opening_hours": [
       {
         "name": "Monday",
-        "description": "10AM - 11PM",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
         "name": "Tuesday",
-        "description": "10AM - 11PM",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
         "name": "Wednesday",
-        "description": "10AM - 11PM",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
         "name": "Thursday",
-        "description": "10AM - 11PM",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
@@ -2148,7 +2148,7 @@
       },
       {
         "name": "Sunday",
-        "description": "10AM - 11PM",
+        "description": "10AM - 10PM",
         "isClosed": false
       }
     ],
@@ -7772,6 +7772,56 @@
       }
     ],
     "url": "https://grilld.com.au/restaurants/new-south-wales/tweed-city",
+    "description": null,
+    "services": [
+      "Pick Up",
+      "Delivery"
+    ],
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "name": "Unley",
+    "address": "Shop T, 10 A & B, 204 Unley Road",
+    "phone": "08 8271 9881",
+    "opening_hours": [
+      {
+        "name": "Monday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Tuesday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Wednesday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Friday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Saturday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Sunday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      }
+    ],
+    "url": "https://grilld.com.au/restaurants/south-australia/unley",
     "description": null,
     "services": [
       "Pick Up",
