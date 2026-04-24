@@ -2959,56 +2959,6 @@
     "longitude": null
   },
   {
-    "name": "Everton Park",
-    "address": "Everton Park Retail & Home Improvement Centre, 2/752 Stafford Rd, EVERTON PARK",
-    "phone": "07 3354 3200",
-    "opening_hours": [
-      {
-        "name": "Monday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Tuesday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Wednesday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Thursday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Friday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Saturday",
-        "description": "11AM - 8PM",
-        "isClosed": false
-      },
-      {
-        "name": "Sunday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      }
-    ],
-    "url": "https://grilld.com.au/restaurants/queensland/everton-park",
-    "description": null,
-    "services": [
-      "Pick Up",
-      "Delivery"
-    ],
-    "latitude": null,
-    "longitude": null
-  },
-  {
     "name": "Fairfield Central (Townsville)",
     "address": "T33/2, 30 Lakeside Dr, IDALIA",
     "phone": "07 4725 4531",
@@ -4451,11 +4401,6 @@
         "isClosed": false
       },
       {
-        "name": "Saturday",
-        "description": "11AM - 9PM",
-        "isClosed": false
-      },
-      {
         "name": "Sunday",
         "description": "10AM - 9PM",
         "isClosed": false
@@ -5257,7 +5202,7 @@
       },
       {
         "name": "Saturday",
-        "description": "11AM - 7PM",
+        "description": "11AM - 6PM",
         "isClosed": false
       },
       {
@@ -5784,22 +5729,22 @@
     "opening_hours": [
       {
         "name": "Monday",
-        "description": "10AM - 11PM",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
         "name": "Tuesday",
-        "description": "10AM - 11PM",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
         "name": "Wednesday",
-        "description": "10AM - 11PM",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
         "name": "Thursday",
-        "description": "10AM - 11PM",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
@@ -5809,12 +5754,12 @@
       },
       {
         "name": "Saturday",
-        "description": "10AM - 10PM",
+        "description": "10AM - 11PM",
         "isClosed": false
       },
       {
         "name": "Sunday",
-        "description": "10AM - 11PM",
+        "description": "10AM - 10PM",
         "isClosed": false
       }
     ],
@@ -6354,6 +6299,56 @@
       }
     ],
     "url": "https://grilld.com.au/restaurants/victoria/richmond",
+    "description": null,
+    "services": [
+      "Pick Up",
+      "Delivery"
+    ],
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "name": "Robina",
+    "address": "Robina Town Centre Dr, ROBINA, QLD",
+    "phone": "07 5575 9994",
+    "opening_hours": [
+      {
+        "name": "Monday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Tuesday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Wednesday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Friday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Saturday",
+        "description": "10AM - 8PM",
+        "isClosed": false
+      },
+      {
+        "name": "Sunday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      }
+    ],
+    "url": "https://grilld.com.au/restaurants/queensland/robina",
     "description": null,
     "services": [
       "Pick Up",
@@ -8169,6 +8164,56 @@
       }
     ],
     "url": "https://grilld.com.au/restaurants/victoria/waurn-ponds",
+    "description": null,
+    "services": [
+      "Pick Up",
+      "Delivery"
+    ],
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "name": "Werribee",
+    "address": "Shop re 04 Werribee Plaza Urban Diner Precinct, 225 Derrimut Rd, WERRIBEE",
+    "phone": "03 9748 7511",
+    "opening_hours": [
+      {
+        "name": "Monday",
+        "description": "11AM - 9PM",
+        "isClosed": false
+      },
+      {
+        "name": "Tuesday",
+        "description": "11AM - 9PM",
+        "isClosed": false
+      },
+      {
+        "name": "Wednesday",
+        "description": "11AM - 9PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "11AM - 9PM",
+        "isClosed": false
+      },
+      {
+        "name": "Friday",
+        "description": "11AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Saturday",
+        "description": "11AM - 9PM",
+        "isClosed": false
+      },
+      {
+        "name": "Sunday",
+        "description": "11AM - 9PM",
+        "isClosed": false
+      }
+    ],
+    "url": "https://grilld.com.au/restaurants/victoria/werribee",
     "description": null,
     "services": [
       "Pick Up",
