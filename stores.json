@@ -1911,57 +1911,6 @@
     "longitude": null
   },
   {
-    "name": "Chirnside Park",
-    "address": "PAD P2D, Maroondah Highway, CHIRNSIDE PARK",
-    "phone": "03 8682 1880",
-    "opening_hours": [
-      {
-        "name": "Monday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Tuesday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Wednesday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Thursday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Friday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Saturday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Sunday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      }
-    ],
-    "url": "https://grilld.com.au/restaurants/victoria/chirnside-park",
-    "description": null,
-    "services": [
-      "Pick Up",
-      "Delivery",
-      "Catering"
-    ],
-    "latitude": null,
-    "longitude": null
-  },
-  {
     "name": "Claremont Quarter",
     "address": "23 St Quentin Ave, CLAREMONT, WA",
     "phone": "08 9384 1084",
@@ -2098,7 +2047,7 @@
       },
       {
         "name": "Sunday",
-        "description": "10AM - 10PM",
+        "description": "10AM - 5PM",
         "isClosed": false
       }
     ],
@@ -2653,56 +2602,6 @@
     "description": null,
     "services": [
       "Pick Up"
-    ],
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "name": "Eastland",
-    "address": "Shop 2054 Eastland Shopping Centre, 175 Maroondah Hwy, RINGWOOD",
-    "phone": "03 9088 1842",
-    "opening_hours": [
-      {
-        "name": "Monday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Tuesday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Wednesday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Thursday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Friday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Saturday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Sunday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      }
-    ],
-    "url": "https://grilld.com.au/restaurants/victoria/eastland",
-    "description": null,
-    "services": [
-      "Pick Up",
-      "Delivery"
     ],
     "latitude": null,
     "longitude": null
@@ -7913,55 +7812,6 @@
       "Pick Up",
       "Delivery",
       "Catering"
-    ],
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "name": "Victoria Point",
-    "address": "Victoria Point Lakeside, D4 Bunker Rd, VICTORIA POINT",
-    "phone": "07 3207 7722",
-    "opening_hours": [
-      {
-        "name": "Monday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Tuesday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Wednesday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Thursday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Friday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Saturday",
-        "description": "11AM - 8PM",
-        "isClosed": false
-      },
-      {
-        "name": "Sunday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      }
-    ],
-    "url": "https://grilld.com.au/restaurants/queensland/victoria-point",
-    "description": null,
-    "services": [
-      "Pick Up"
     ],
     "latitude": null,
     "longitude": null
