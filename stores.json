@@ -2098,7 +2098,7 @@
       },
       {
         "name": "Sunday",
-        "description": "10AM - 5PM",
+        "description": "10AM - 10PM",
         "isClosed": false
       }
     ],
@@ -3968,7 +3968,8 @@
     "description": null,
     "services": [
       "Pick Up",
-      "Delivery"
+      "Delivery",
+      "Catering"
     ],
     "latitude": null,
     "longitude": null
@@ -6272,7 +6273,8 @@
     "description": null,
     "services": [
       "Pick Up",
-      "Delivery"
+      "Delivery",
+      "Catering"
     ],
     "latitude": null,
     "longitude": null
