@@ -4457,6 +4457,11 @@
         "isClosed": false
       },
       {
+        "name": "Saturday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
         "name": "Sunday",
         "description": "10AM - 9PM",
         "isClosed": false
@@ -6567,56 +6572,6 @@
     "longitude": null
   },
   {
-    "name": "Rundle St",
-    "address": "187 Rundle St, ADELAIDE, SA",
-    "phone": "08 8223 3188",
-    "opening_hours": [
-      {
-        "name": "Monday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Tuesday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Wednesday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Thursday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Friday",
-        "description": "10AM - 11PM",
-        "isClosed": false
-      },
-      {
-        "name": "Saturday",
-        "description": "10AM - 11PM",
-        "isClosed": false
-      },
-      {
-        "name": "Sunday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      }
-    ],
-    "url": "https://grilld.com.au/restaurants/south-australia/rundle-st",
-    "description": null,
-    "services": [
-      "Pick Up",
-      "Delivery"
-    ],
-    "latitude": null,
-    "longitude": null
-  },
-  {
     "name": "Scarborough",
     "address": "188 The Esplanade, SCARBOROUGH, WA",
     "phone": "08 9245 1055",
@@ -7231,32 +7186,32 @@
     "opening_hours": [
       {
         "name": "Monday",
-        "description": "9AM - 11PM",
+        "description": "10AM - 11PM",
         "isClosed": false
       },
       {
         "name": "Tuesday",
-        "description": "9AM - 11PM",
+        "description": "10AM - 11PM",
         "isClosed": false
       },
       {
         "name": "Wednesday",
-        "description": "9AM - 11PM",
+        "description": "10AM - 11PM",
         "isClosed": false
       },
       {
         "name": "Thursday",
-        "description": "9AM - 11PM",
+        "description": "10AM - 11PM",
         "isClosed": false
       },
       {
         "name": "Friday",
-        "description": "9AM - 3AM",
+        "description": "10AM - 3AM",
         "isClosed": false
       },
       {
         "name": "Saturday",
-        "description": "9AM - 3AM",
+        "description": "10AM - 3AM",
         "isClosed": false
       },
       {
