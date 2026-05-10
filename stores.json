@@ -6034,6 +6034,56 @@
     "longitude": null
   },
   {
+    "name": "Ocean Keys",
+    "address": "36 Ocean Keys Blvd, CLARKSON, WA",
+    "phone": "08 9407 8888",
+    "opening_hours": [
+      {
+        "name": "Monday",
+        "description": "10AM - 9PM",
+        "isClosed": false
+      },
+      {
+        "name": "Tuesday",
+        "description": "10AM - 9PM",
+        "isClosed": false
+      },
+      {
+        "name": "Wednesday",
+        "description": "10AM - 9PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "10AM - 9PM",
+        "isClosed": false
+      },
+      {
+        "name": "Friday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Saturday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Sunday",
+        "description": "10AM - 9PM",
+        "isClosed": false
+      }
+    ],
+    "url": "https://grilld.com.au/restaurants/western-australia/ocean-keys",
+    "description": null,
+    "services": [
+      "Pick Up",
+      "Delivery"
+    ],
+    "latitude": null,
+    "longitude": null
+  },
+  {
     "name": "Pacific Fair",
     "address": "Pacific Fair Shopping Centre, Hooker Blvd & Sunshine Blvd, BROADBEACH",
     "phone": "07 5526 8155",
