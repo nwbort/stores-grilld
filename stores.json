@@ -2218,37 +2218,37 @@
     "opening_hours": [
       {
         "name": "Monday",
-        "description": "10AM - 10PM",
+        "description": "11AM - 10PM",
         "isClosed": false
       },
       {
         "name": "Tuesday",
-        "description": "10AM - 10PM",
+        "description": "11AM - 10PM",
         "isClosed": false
       },
       {
         "name": "Wednesday",
-        "description": "10AM - 10PM",
+        "description": "11AM - 10PM",
         "isClosed": false
       },
       {
         "name": "Thursday",
-        "description": "10AM - 10PM",
+        "description": "11AM - 10PM",
         "isClosed": false
       },
       {
         "name": "Friday",
-        "description": "10AM - 10PM",
+        "description": "11AM - 10PM",
         "isClosed": false
       },
       {
         "name": "Saturday",
-        "description": "10AM - 10PM",
+        "description": "11AM - 10PM",
         "isClosed": false
       },
       {
         "name": "Sunday",
-        "description": "10AM - 10PM",
+        "description": "11AM - 10PM",
         "isClosed": false
       }
     ],
@@ -2408,7 +2408,8 @@
     "description": null,
     "services": [
       "Pick Up",
-      "Delivery"
+      "Delivery",
+      "Catering"
     ],
     "latitude": null,
     "longitude": null
@@ -4463,7 +4464,7 @@
       },
       {
         "name": "Sunday",
-        "description": "10AM - 10PM",
+        "description": "10AM - 9PM",
         "isClosed": false
       }
     ],
@@ -4599,7 +4600,7 @@
       },
       {
         "name": "Thursday",
-        "description": "10AM - 10PM",
+        "description": "10AM - 9PM",
         "isClosed": false
       },
       {
@@ -4937,37 +4938,37 @@
     "opening_hours": [
       {
         "name": "Monday",
-        "description": "11AM - 9PM",
+        "description": "10AM - 9PM",
         "isClosed": false
       },
       {
         "name": "Tuesday",
-        "description": "11AM - 10PM",
+        "description": "10AM - 9PM",
         "isClosed": false
       },
       {
         "name": "Wednesday",
-        "description": "11AM - 9PM",
+        "description": "10AM - 9PM",
         "isClosed": false
       },
       {
         "name": "Thursday",
-        "description": "11AM - 10PM",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
         "name": "Friday",
-        "description": "11AM - 10PM",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
         "name": "Saturday",
-        "description": "11AM - 10PM",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
         "name": "Sunday",
-        "description": "11AM - 10PM",
+        "description": "10AM - 10PM",
         "isClosed": false
       }
     ],
@@ -5339,37 +5340,37 @@
     "opening_hours": [
       {
         "name": "Monday",
-        "description": "11AM - 10PM",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
         "name": "Tuesday",
-        "description": "11AM - 10PM",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
         "name": "Wednesday",
-        "description": "11AM - 10PM",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
         "name": "Thursday",
-        "description": "11AM - 10PM",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
         "name": "Friday",
-        "description": "11AM - 10PM",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
         "name": "Saturday",
-        "description": "11AM - 10PM",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
         "name": "Sunday",
-        "description": "11AM - 10PM",
+        "description": "10AM - 10PM",
         "isClosed": false
       }
     ],
@@ -5640,37 +5641,37 @@
     "opening_hours": [
       {
         "name": "Monday",
-        "description": "11AM - 10PM",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
         "name": "Tuesday",
-        "description": "11AM - 10PM",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
         "name": "Wednesday",
-        "description": "11AM - 10PM",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
         "name": "Thursday",
-        "description": "11AM - 10PM",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
         "name": "Friday",
-        "description": "11AM - 10PM",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
         "name": "Saturday",
-        "description": "11AM - 10PM",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
         "name": "Sunday",
-        "description": "11AM - 10PM",
+        "description": "10AM - 10PM",
         "isClosed": false
       }
     ],
@@ -6190,37 +6191,37 @@
     "opening_hours": [
       {
         "name": "Monday",
-        "description": "11AM - 10PM",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
         "name": "Tuesday",
-        "description": "11AM - 10PM",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
         "name": "Wednesday",
-        "description": "11AM - 10PM",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
         "name": "Thursday",
-        "description": "11AM - 10PM",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
         "name": "Friday",
-        "description": "11AM - 10PM",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
         "name": "Saturday",
-        "description": "11AM - 10PM",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
         "name": "Sunday",
-        "description": "11AM - 10PM",
+        "description": "10AM - 10PM",
         "isClosed": false
       }
     ],
@@ -6542,37 +6543,37 @@
     "opening_hours": [
       {
         "name": "Monday",
-        "description": "11AM - 10PM",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
         "name": "Tuesday",
-        "description": "11AM - 10PM",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
         "name": "Wednesday",
-        "description": "11AM - 10PM",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
         "name": "Thursday",
-        "description": "11AM - 10PM",
+        "description": "10AM - 11PM",
         "isClosed": false
       },
       {
         "name": "Friday",
-        "description": "11AM - 10PM",
+        "description": "10AM - 11PM",
         "isClosed": false
       },
       {
         "name": "Saturday",
-        "description": "11AM - 10PM",
+        "description": "10AM - 11PM",
         "isClosed": false
       },
       {
         "name": "Sunday",
-        "description": "11AM - 10PM",
+        "description": "10AM - 10PM",
         "isClosed": false
       }
     ],
@@ -7553,37 +7554,37 @@
     "opening_hours": [
       {
         "name": "Monday",
-        "description": "10AM - 10PM",
+        "description": "11AM - 10PM",
         "isClosed": false
       },
       {
         "name": "Tuesday",
-        "description": "10AM - 9PM",
+        "description": "11AM - 10PM",
         "isClosed": false
       },
       {
         "name": "Wednesday",
-        "description": "10AM - 10PM",
+        "description": "11AM - 10PM",
         "isClosed": false
       },
       {
         "name": "Thursday",
-        "description": "10AM - 10PM",
+        "description": "11AM - 10PM",
         "isClosed": false
       },
       {
         "name": "Friday",
-        "description": "10AM - 10PM",
+        "description": "11AM - 10PM",
         "isClosed": false
       },
       {
         "name": "Saturday",
-        "description": "10AM - 9PM",
+        "description": "11AM - 10PM",
         "isClosed": false
       },
       {
         "name": "Sunday",
-        "description": "10AM - 10PM",
+        "description": "11AM - 10PM",
         "isClosed": false
       }
     ],
@@ -7654,37 +7655,37 @@
     "opening_hours": [
       {
         "name": "Monday",
-        "description": "11AM - 10PM",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
         "name": "Tuesday",
-        "description": "11AM - 9PM",
+        "description": "10AM - 9PM",
         "isClosed": false
       },
       {
         "name": "Wednesday",
-        "description": "11AM - 9PM",
+        "description": "10AM - 9PM",
         "isClosed": false
       },
       {
         "name": "Thursday",
-        "description": "11AM - 9PM",
+        "description": "10AM - 9PM",
         "isClosed": false
       },
       {
         "name": "Friday",
-        "description": "11AM - 10PM",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
         "name": "Saturday",
-        "description": "11AM - 10PM",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
         "name": "Sunday",
-        "description": "11AM - 10PM",
+        "description": "10AM - 9PM",
         "isClosed": false
       }
     ],
@@ -8456,26 +8457,6 @@
     "address": "Shop 315 Westfield Whitford City, Cnr Marmion Ave & Whitfords Ave, HILLARYS",
     "phone": "08 9401 7941",
     "opening_hours": [
-      {
-        "name": "Monday",
-        "description": "10AM - 9PM",
-        "isClosed": false
-      },
-      {
-        "name": "Tuesday",
-        "description": "10AM - 9PM",
-        "isClosed": false
-      },
-      {
-        "name": "Wednesday",
-        "description": "10AM - 9PM",
-        "isClosed": false
-      },
-      {
-        "name": "Thursday",
-        "description": "10AM - 9PM",
-        "isClosed": false
-      },
       {
         "name": "Friday",
         "description": "10AM - 10PM",
