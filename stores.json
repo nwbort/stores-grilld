@@ -401,56 +401,6 @@
     "longitude": null
   },
   {
-    "name": "Baulkham Hills",
-    "address": "Shop 1 30-32 Old Northern Road, BAULKHAM HILLS, NSW",
-    "phone": "0279040633",
-    "opening_hours": [
-      {
-        "name": "Monday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Tuesday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Wednesday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Thursday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Friday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Saturday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Sunday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      }
-    ],
-    "url": "https://grilld.com.au/restaurants/new-south-wales/baulkham-hills",
-    "description": null,
-    "services": [
-      "Pick Up",
-      "Delivery"
-    ],
-    "latitude": null,
-    "longitude": null
-  },
-  {
     "name": "Belconnen",
     "address": "301 Benjamin Way, BELCONNEN, ACT",
     "phone": "02 6251 1588",
@@ -1784,12 +1734,12 @@
       },
       {
         "name": "Friday",
-        "description": "9AM - 11PM",
+        "description": "9AM - 1AM",
         "isClosed": false
       },
       {
         "name": "Saturday",
-        "description": "9AM - 11PM",
+        "description": "9AM - 1AM",
         "isClosed": false
       },
       {
@@ -4464,7 +4414,7 @@
       },
       {
         "name": "Sunday",
-        "description": "10AM - 9PM",
+        "description": "10AM - 10PM",
         "isClosed": false
       }
     ],
@@ -4600,7 +4550,7 @@
       },
       {
         "name": "Thursday",
-        "description": "10AM - 9PM",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
@@ -6766,12 +6716,12 @@
       },
       {
         "name": "Friday",
-        "description": "10AM - 11PM",
+        "description": "10AM - 1AM",
         "isClosed": false
       },
       {
         "name": "Saturday",
-        "description": "10AM - 11PM",
+        "description": "10AM - 1AM",
         "isClosed": false
       },
       {
@@ -7221,12 +7171,12 @@
       },
       {
         "name": "Friday",
-        "description": "10AM - 11PM",
+        "description": "10AM - 1AM",
         "isClosed": false
       },
       {
         "name": "Saturday",
-        "description": "10AM - 11PM",
+        "description": "10AM - 1AM",
         "isClosed": false
       },
       {
@@ -7554,37 +7504,37 @@
     "opening_hours": [
       {
         "name": "Monday",
-        "description": "11AM - 10PM",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
         "name": "Tuesday",
-        "description": "11AM - 10PM",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
         "name": "Wednesday",
-        "description": "11AM - 10PM",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
         "name": "Thursday",
-        "description": "11AM - 10PM",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
         "name": "Friday",
-        "description": "11AM - 10PM",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
         "name": "Saturday",
-        "description": "11AM - 10PM",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
         "name": "Sunday",
-        "description": "11AM - 10PM",
+        "description": "10AM - 10PM",
         "isClosed": false
       }
     ],
