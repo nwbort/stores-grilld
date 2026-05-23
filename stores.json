@@ -106,26 +106,6 @@
     "phone": "08 9316 3500",
     "opening_hours": [
       {
-        "name": "Monday",
-        "description": "10AM - 9PM",
-        "isClosed": false
-      },
-      {
-        "name": "Tuesday",
-        "description": "10AM - 9PM",
-        "isClosed": false
-      },
-      {
-        "name": "Wednesday",
-        "description": "10AM - 9PM",
-        "isClosed": false
-      },
-      {
-        "name": "Thursday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      },
-      {
         "name": "Friday",
         "description": "10AM - 10PM",
         "isClosed": false
@@ -133,11 +113,6 @@
       {
         "name": "Saturday",
         "description": "10AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Sunday",
-        "description": "10AM - 9PM",
         "isClosed": false
       }
     ],
