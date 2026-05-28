@@ -106,6 +106,21 @@
     "phone": "08 9316 3500",
     "opening_hours": [
       {
+        "name": "Monday",
+        "description": "10AM - 9PM",
+        "isClosed": false
+      },
+      {
+        "name": "Tuesday",
+        "description": "10AM - 9PM",
+        "isClosed": false
+      },
+      {
+        "name": "Wednesday",
+        "description": "10AM - 9PM",
+        "isClosed": false
+      },
+      {
         "name": "Friday",
         "description": "10AM - 10PM",
         "isClosed": false
@@ -2395,6 +2410,56 @@
     "longitude": null
   },
   {
+    "name": "Darlinghurst Crown St",
+    "address": "241 Crown St, DARLINGHURST, NSW",
+    "phone": "02 9380 4800",
+    "opening_hours": [
+      {
+        "name": "Monday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Tuesday",
+        "description": "11AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Wednesday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Friday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Saturday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Sunday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      }
+    ],
+    "url": "https://grilld.com.au/restaurants/new-south-wales/darlinghurst-crown-st",
+    "description": null,
+    "services": [
+      "Pick Up",
+      "Delivery"
+    ],
+    "latitude": null,
+    "longitude": null
+  },
+  {
     "name": "Dee Why",
     "address": "Shop 10-11, Corner Howard Ave & PIttwater Rd, DEE WHY",
     "phone": "02 9188 8396",
@@ -3800,6 +3865,57 @@
       "Pick Up",
       "Delivery",
       "Catering"
+    ],
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "name": "Heatherton",
+    "address": "376 Warrigal Rd, HEATHERTON, VIC",
+    "phone": "03 9558 2301",
+    "opening_hours": [
+      {
+        "name": "Monday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Tuesday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Wednesday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Friday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Saturday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Sunday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      }
+    ],
+    "url": "https://grilld.com.au/restaurants/victoria/heatherton",
+    "description": null,
+    "services": [
+      "Pick Up",
+      "Park & Collect",
+      "Delivery"
     ],
     "latitude": null,
     "longitude": null
@@ -8022,56 +8138,6 @@
       }
     ],
     "url": "https://grilld.com.au/restaurants/western-australia/waterford-plaza",
-    "description": null,
-    "services": [
-      "Pick Up",
-      "Delivery"
-    ],
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "name": "Watergardens",
-    "address": "Shop R01 Watergardens Town Centre, Restaurant Precinct, 399 Melton Hwy",
-    "phone": "03 8390 7722",
-    "opening_hours": [
-      {
-        "name": "Monday",
-        "description": "11AM - 9PM",
-        "isClosed": false
-      },
-      {
-        "name": "Tuesday",
-        "description": "11AM - 9PM",
-        "isClosed": false
-      },
-      {
-        "name": "Wednesday",
-        "description": "11AM - 9PM",
-        "isClosed": false
-      },
-      {
-        "name": "Thursday",
-        "description": "11AM - 9PM",
-        "isClosed": false
-      },
-      {
-        "name": "Friday",
-        "description": "11AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Saturday",
-        "description": "11AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Sunday",
-        "description": "11AM - 9PM",
-        "isClosed": false
-      }
-    ],
-    "url": "https://grilld.com.au/restaurants/victoria/watergardens",
     "description": null,
     "services": [
       "Pick Up",
