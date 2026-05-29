@@ -121,7 +121,7 @@
         "isClosed": false
       },
       {
-        "name": "Friday",
+        "name": "Thursday",
         "description": "10AM - 10PM",
         "isClosed": false
       },
@@ -4022,56 +4022,6 @@
     "longitude": null
   },
   {
-    "name": "Indooroopilly",
-    "address": "Indooroopilly Shopping Centre, 322 Moggill Rd, INDOOROOPILLY",
-    "phone": "07 3378 7678",
-    "opening_hours": [
-      {
-        "name": "Monday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Tuesday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Wednesday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Thursday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Friday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Saturday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Sunday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      }
-    ],
-    "url": "https://grilld.com.au/restaurants/queensland/indooroopilly",
-    "description": null,
-    "services": [
-      "Pick Up",
-      "Delivery"
-    ],
-    "latitude": null,
-    "longitude": null
-  },
-  {
     "name": "Innaloo",
     "address": "6 Sunray Dr, INNALOO, WA",
     "phone": "(08) 6185 6638",
@@ -5486,7 +5436,7 @@
     "opening_hours": [
       {
         "name": "Monday",
-        "description": "10AM - 10PM",
+        "description": "9AM - 10PM",
         "isClosed": false
       },
       {
@@ -8138,6 +8088,56 @@
       }
     ],
     "url": "https://grilld.com.au/restaurants/western-australia/waterford-plaza",
+    "description": null,
+    "services": [
+      "Pick Up",
+      "Delivery"
+    ],
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "name": "Watergardens",
+    "address": "Shop R01 Watergardens Town Centre, Restaurant Precinct, 399 Melton Hwy",
+    "phone": "03 8390 7722",
+    "opening_hours": [
+      {
+        "name": "Monday",
+        "description": "11AM - 9PM",
+        "isClosed": false
+      },
+      {
+        "name": "Tuesday",
+        "description": "11AM - 9PM",
+        "isClosed": false
+      },
+      {
+        "name": "Wednesday",
+        "description": "11AM - 9PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "11AM - 9PM",
+        "isClosed": false
+      },
+      {
+        "name": "Friday",
+        "description": "11AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Saturday",
+        "description": "11AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Sunday",
+        "description": "11AM - 9PM",
+        "isClosed": false
+      }
+    ],
+    "url": "https://grilld.com.au/restaurants/victoria/watergardens",
     "description": null,
     "services": [
       "Pick Up",
