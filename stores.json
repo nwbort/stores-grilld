@@ -4022,6 +4022,56 @@
     "longitude": null
   },
   {
+    "name": "Indooroopilly",
+    "address": "Indooroopilly Shopping Centre, 322 Moggill Rd, INDOOROOPILLY",
+    "phone": "07 3378 7678",
+    "opening_hours": [
+      {
+        "name": "Monday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Tuesday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Wednesday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Friday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Saturday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Sunday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      }
+    ],
+    "url": "https://grilld.com.au/restaurants/queensland/indooroopilly",
+    "description": null,
+    "services": [
+      "Pick Up",
+      "Delivery"
+    ],
+    "latitude": null,
+    "longitude": null
+  },
+  {
     "name": "Innaloo",
     "address": "6 Sunray Dr, INNALOO, WA",
     "phone": "(08) 6185 6638",
@@ -5223,57 +5273,6 @@
     "description": null,
     "services": [
       "Pick Up",
-      "Catering"
-    ],
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "name": "Midland",
-    "address": "Midland Gate Shopping Centre, 274 Great Eastern Hwy, MIDLAND",
-    "phone": "08 9274 0911",
-    "opening_hours": [
-      {
-        "name": "Monday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Tuesday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Wednesday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Thursday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Friday",
-        "description": "10AM - 11PM",
-        "isClosed": false
-      },
-      {
-        "name": "Saturday",
-        "description": "10AM - 11PM",
-        "isClosed": false
-      },
-      {
-        "name": "Sunday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      }
-    ],
-    "url": "https://grilld.com.au/restaurants/western-australia/midland",
-    "description": null,
-    "services": [
-      "Pick Up",
-      "Delivery",
       "Catering"
     ],
     "latitude": null,
