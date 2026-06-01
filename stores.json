@@ -2007,6 +2007,56 @@
     "longitude": null
   },
   {
+    "name": "Coburg North",
+    "address": "Shop 11, Coburg North Village, 180 Gaffney St",
+    "phone": "(03 ) 7071 9099",
+    "opening_hours": [
+      {
+        "name": "Monday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Tuesday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Wednesday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Friday",
+        "description": "10AM - 1AM",
+        "isClosed": false
+      },
+      {
+        "name": "Saturday",
+        "description": "10AM - 1AM",
+        "isClosed": false
+      },
+      {
+        "name": "Sunday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      }
+    ],
+    "url": "https://grilld.com.au/restaurants/victoria/coburg-north",
+    "description": null,
+    "services": [
+      "Pick Up",
+      "Delivery"
+    ],
+    "latitude": null,
+    "longitude": null
+  },
+  {
     "name": "Cockburn",
     "address": "816 Beeliar Dr, SUCCESS, WA",
     "phone": "08 9498 6844",
@@ -4884,7 +4934,7 @@
     "opening_hours": [
       {
         "name": "Monday",
-        "description": "10AM - 9PM",
+        "description": "11AM - 9PM",
         "isClosed": false
       },
       {
@@ -7698,43 +7748,7 @@
     "name": "Tweed City",
     "address": "Tweed City Shopping Centre, 209/54 Minjungbal Dr, TWEED HEADS",
     "phone": "07 5523 2477",
-    "opening_hours": [
-      {
-        "name": "Monday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Tuesday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Wednesday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Thursday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Friday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Saturday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Sunday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      }
-    ],
+    "opening_hours": [],
     "url": "https://grilld.com.au/restaurants/new-south-wales/tweed-city",
     "description": null,
     "services": [
