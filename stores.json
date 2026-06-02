@@ -3870,57 +3870,6 @@
     "longitude": null
   },
   {
-    "name": "Heatherton",
-    "address": "376 Warrigal Rd, HEATHERTON, VIC",
-    "phone": "03 9558 2301",
-    "opening_hours": [
-      {
-        "name": "Monday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Tuesday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Wednesday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Thursday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Friday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Saturday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Sunday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      }
-    ],
-    "url": "https://grilld.com.au/restaurants/victoria/heatherton",
-    "description": null,
-    "services": [
-      "Pick Up",
-      "Park & Collect",
-      "Delivery"
-    ],
-    "latitude": null,
-    "longitude": null
-  },
-  {
     "name": "Highpoint",
     "address": "Highpoint Shopping Centre, 120-200 Rosamond Rd, MARIBYRNONG",
     "phone": "03 9317 7455",
@@ -4934,7 +4883,7 @@
     "opening_hours": [
       {
         "name": "Monday",
-        "description": "11AM - 9PM",
+        "description": "10AM - 9PM",
         "isClosed": false
       },
       {
@@ -5486,7 +5435,7 @@
     "opening_hours": [
       {
         "name": "Monday",
-        "description": "9AM - 10PM",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
@@ -5722,56 +5671,6 @@
       }
     ],
     "url": "https://grilld.com.au/restaurants/queensland/newmarket",
-    "description": null,
-    "services": [
-      "Pick Up",
-      "Delivery"
-    ],
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "name": "Nobby Beach",
-    "address": "Shop 1A/2215 Gold Coast Hwy, MERMAID BEACH, QLD",
-    "phone": "07 5526 6543",
-    "opening_hours": [
-      {
-        "name": "Monday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Tuesday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Wednesday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Thursday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Friday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Saturday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Sunday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      }
-    ],
-    "url": "https://grilld.com.au/restaurants/queensland/nobby-beach",
     "description": null,
     "services": [
       "Pick Up",
