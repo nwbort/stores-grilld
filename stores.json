@@ -2664,56 +2664,6 @@
     "longitude": null
   },
   {
-    "name": "Eastland",
-    "address": "Shop 2054 Eastland Shopping Centre, 175 Maroondah Hwy, RINGWOOD",
-    "phone": "03 9088 1842",
-    "opening_hours": [
-      {
-        "name": "Monday",
-        "description": "11AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Tuesday",
-        "description": "11AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Wednesday",
-        "description": "11AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Thursday",
-        "description": "11AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Friday",
-        "description": "11AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Saturday",
-        "description": "11AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Sunday",
-        "description": "11AM - 10PM",
-        "isClosed": false
-      }
-    ],
-    "url": "https://grilld.com.au/restaurants/victoria/eastland",
-    "description": null,
-    "services": [
-      "Pick Up",
-      "Delivery"
-    ],
-    "latitude": null,
-    "longitude": null
-  },
-  {
     "name": "Eatons Hill",
     "address": "Eatons Hill Village, 640 South Pine Rd, EATONS HILL",
     "phone": "07 3264 2882",
