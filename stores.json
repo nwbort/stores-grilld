@@ -3483,6 +3483,57 @@
     "longitude": null
   },
   {
+    "name": "Glen Waverley",
+    "address": "89 Kingsway, GLEN WAVERLEY, VIC",
+    "phone": "03 9561 6904",
+    "opening_hours": [
+      {
+        "name": "Monday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Tuesday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Wednesday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Friday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Saturday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Sunday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      }
+    ],
+    "url": "https://grilld.com.au/restaurants/victoria/glen-waverley",
+    "description": null,
+    "services": [
+      "Pick Up",
+      "Delivery",
+      "Catering"
+    ],
+    "latitude": null,
+    "longitude": null
+  },
+  {
     "name": "Great Eastern Highway",
     "address": "T4/T6 268 Great Eastern Hwy, Ascot WA 6104, ASCOT",
     "phone": "08 9288 3440 ",
@@ -4942,6 +4993,55 @@
       "Pick Up",
       "Delivery",
       "Catering"
+    ],
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "name": "Marion",
+    "address": "Shop 2026A/297 Diagonal Rd, OAKLANDS PARK",
+    "phone": "0882967977",
+    "opening_hours": [
+      {
+        "name": "Monday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Tuesday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Wednesday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Friday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Saturday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Sunday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      }
+    ],
+    "url": "https://grilld.com.au/restaurants/south-australia/marion",
+    "description": null,
+    "services": [
+      "Pick Up"
     ],
     "latitude": null,
     "longitude": null
@@ -7627,6 +7727,55 @@
     "longitude": null
   },
   {
+    "name": "Unley",
+    "address": "Shop T, 10 A & B, 204 Unley Road",
+    "phone": "0882719881",
+    "opening_hours": [
+      {
+        "name": "Monday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Tuesday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Wednesday",
+        "description": "8AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Friday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Saturday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Sunday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      }
+    ],
+    "url": "https://grilld.com.au/restaurants/south-australia/unley",
+    "description": null,
+    "services": [
+      "Pick Up"
+    ],
+    "latitude": null,
+    "longitude": null
+  },
+  {
     "name": "Upper Coomera",
     "address": "2 City Centre Dr, UPPER COOMERA, QLD",
     "phone": "(07) 5626 0019",
@@ -8377,57 +8526,6 @@
     "services": [
       "Pick Up",
       "Delivery"
-    ],
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "name": "Wintergarden",
-    "address": "Wintergarden Shopping Centre, L105/171 Queen St, BRISBANE CITY",
-    "phone": "07 3003 1500",
-    "opening_hours": [
-      {
-        "name": "Monday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Tuesday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Wednesday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Thursday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Friday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Saturday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Sunday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      }
-    ],
-    "url": "https://grilld.com.au/restaurants/queensland/wintergarden",
-    "description": null,
-    "services": [
-      "Pick Up",
-      "Delivery",
-      "Catering"
     ],
     "latitude": null,
     "longitude": null
