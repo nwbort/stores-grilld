@@ -854,56 +854,6 @@
     "longitude": null
   },
   {
-    "name": "Bulimba",
-    "address": "124 Oxford St, BULIMBA, QLD",
-    "phone": "07 3399 5522",
-    "opening_hours": [
-      {
-        "name": "Monday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Tuesday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Wednesday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Thursday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Friday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Saturday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Sunday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      }
-    ],
-    "url": "https://grilld.com.au/restaurants/queensland/bulimba",
-    "description": null,
-    "services": [
-      "Pick Up",
-      "Delivery"
-    ],
-    "latitude": null,
-    "longitude": null
-  },
-  {
     "name": "Bundoora",
     "address": "Shop 1/33 Plenty Rd, BUNDOORA, VIC",
     "phone": "03 9466 7654",
@@ -5041,7 +4991,8 @@
     "url": "https://grilld.com.au/restaurants/south-australia/marion",
     "description": null,
     "services": [
-      "Pick Up"
+      "Pick Up",
+      "Delivery"
     ],
     "latitude": null,
     "longitude": null
@@ -6400,56 +6351,6 @@
     "longitude": null
   },
   {
-    "name": "Rockingham",
-    "address": "Rockingham Shopping Centre, 1 Council Ave, ROCKINGHAM",
-    "phone": "08 9527 4299",
-    "opening_hours": [
-      {
-        "name": "Monday",
-        "description": "10AM - 9PM",
-        "isClosed": false
-      },
-      {
-        "name": "Tuesday",
-        "description": "10AM - 9PM",
-        "isClosed": false
-      },
-      {
-        "name": "Wednesday",
-        "description": "10AM - 9PM",
-        "isClosed": false
-      },
-      {
-        "name": "Thursday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Friday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Saturday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Sunday",
-        "description": "10AM - 9PM",
-        "isClosed": false
-      }
-    ],
-    "url": "https://grilld.com.au/restaurants/western-australia/rockingham",
-    "description": null,
-    "services": [
-      "Pick Up",
-      "Delivery"
-    ],
-    "latitude": null,
-    "longitude": null
-  },
-  {
     "name": "Rosalie",
     "address": "19-21 Nash St, ROSALIE, QLD",
     "phone": "07 3367 1555",
@@ -7716,7 +7617,43 @@
     "name": "Tweed City",
     "address": "Tweed City Shopping Centre, 209/54 Minjungbal Dr, TWEED HEADS",
     "phone": "07 5523 2477",
-    "opening_hours": [],
+    "opening_hours": [
+      {
+        "name": "Monday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Tuesday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Wednesday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Friday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Saturday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Sunday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      }
+    ],
     "url": "https://grilld.com.au/restaurants/new-south-wales/tweed-city",
     "description": null,
     "services": [
@@ -7770,7 +7707,8 @@
     "url": "https://grilld.com.au/restaurants/south-australia/unley",
     "description": null,
     "services": [
-      "Pick Up"
+      "Pick Up",
+      "Delivery"
     ],
     "latitude": null,
     "longitude": null
