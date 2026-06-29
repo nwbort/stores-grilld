@@ -7238,12 +7238,12 @@
       },
       {
         "name": "Friday",
-        "description": "10AM - 3AM",
+        "description": "10AM - 2AM",
         "isClosed": false
       },
       {
         "name": "Saturday",
-        "description": "10AM - 3AM",
+        "description": "10AM - 2AM",
         "isClosed": false
       },
       {
