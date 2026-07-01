@@ -2065,7 +2065,38 @@
     "name": "Cockburn",
     "address": "816 Beeliar Dr, SUCCESS, WA",
     "phone": "08 9498 6844",
-    "opening_hours": [],
+    "opening_hours": [
+      {
+        "name": "Monday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Tuesday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Friday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Saturday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Sunday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      }
+    ],
     "url": "https://grilld.com.au/restaurants/western-australia/cockburn",
     "description": null,
     "services": [
