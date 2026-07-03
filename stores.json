@@ -653,56 +653,6 @@
     "longitude": null
   },
   {
-    "name": "Bondi Beach",
-    "address": "Shop 1 & 2, 89 - 93 Hall Street, BONDI BEACH",
-    "phone": "0291798703",
-    "opening_hours": [
-      {
-        "name": "Monday",
-        "description": "11AM - 9PM",
-        "isClosed": false
-      },
-      {
-        "name": "Tuesday",
-        "description": "11AM - 9PM",
-        "isClosed": false
-      },
-      {
-        "name": "Wednesday",
-        "description": "11AM - 9PM",
-        "isClosed": false
-      },
-      {
-        "name": "Thursday",
-        "description": "11AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Friday",
-        "description": "11AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Saturday",
-        "description": "10AM - 9PM",
-        "isClosed": false
-      },
-      {
-        "name": "Sunday",
-        "description": "11AM - 9PM",
-        "isClosed": false
-      }
-    ],
-    "url": "https://grilld.com.au/restaurants/new-south-wales/bondi-beach",
-    "description": null,
-    "services": [
-      "Pick Up",
-      "Delivery"
-    ],
-    "latitude": null,
-    "longitude": null
-  },
-  {
     "name": "Bondi Junction",
     "address": "9-13 Bronte Rd, BONDI JUNCTION, NSW",
     "phone": "02 9387 6666",
@@ -4960,7 +4910,7 @@
       },
       {
         "name": "Friday",
-        "description": "10AM - 10PM",
+        "description": "11AM - 10PM",
         "isClosed": false
       },
       {
