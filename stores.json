@@ -1563,37 +1563,37 @@
     "opening_hours": [
       {
         "name": "Monday",
-        "description": "9AM - 10PM",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
         "name": "Tuesday",
-        "description": "9AM - 10PM",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
         "name": "Wednesday",
-        "description": "9AM - 10PM",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
         "name": "Thursday",
-        "description": "9AM - 11PM",
+        "description": "10AM - 11PM",
         "isClosed": false
       },
       {
         "name": "Friday",
-        "description": "9AM - 11PM",
+        "description": "10AM - 11PM",
         "isClosed": false
       },
       {
         "name": "Saturday",
-        "description": "9AM - 11PM",
+        "description": "10AM - 11PM",
         "isClosed": false
       },
       {
         "name": "Sunday",
-        "description": "9AM - 10PM",
+        "description": "10AM - 10PM",
         "isClosed": false
       }
     ],
@@ -2716,43 +2716,7 @@
     "name": "Eatons Hill",
     "address": "Eatons Hill Village, 640 South Pine Rd, EATONS HILL",
     "phone": "07 3264 2882",
-    "opening_hours": [
-      {
-        "name": "Monday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Tuesday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Wednesday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Thursday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Friday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Saturday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Sunday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      }
-    ],
+    "opening_hours": [],
     "url": "https://grilld.com.au/restaurants/queensland/eatons-hill",
     "description": null,
     "services": [
