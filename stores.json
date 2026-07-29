@@ -1171,7 +1171,7 @@
       },
       {
         "name": "Wednesday",
-        "description": "10AM - 10PM",
+        "description": "3PM - 10PM",
         "isClosed": false
       },
       {
@@ -2822,7 +2822,8 @@
     "services": [
       "Pick Up",
       "Park & Collect",
-      "Delivery"
+      "Delivery",
+      "Catering"
     ],
     "latitude": null,
     "longitude": null
@@ -5494,7 +5495,8 @@
     "description": null,
     "services": [
       "Pick Up",
-      "Delivery"
+      "Delivery",
+      "Catering"
     ],
     "latitude": null,
     "longitude": null
