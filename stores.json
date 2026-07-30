@@ -7258,7 +7258,8 @@
     "description": null,
     "services": [
       "Pick Up",
-      "Delivery"
+      "Delivery",
+      "Catering"
     ],
     "latitude": null,
     "longitude": null
@@ -8063,7 +8064,8 @@
     "services": [
       "Drive Thru",
       "Pick Up",
-      "Delivery"
+      "Delivery",
+      "Catering"
     ],
     "latitude": null,
     "longitude": null
