@@ -5022,8 +5022,8 @@
   },
   {
     "name": "Marion",
-    "address": "Shop 2026A/297 Diagonal Rd, OAKLANDS PARK",
-    "phone": "0882967977",
+    "address": "Shop 2026A/297 Diagonal Rd, OAKLANDS PARK, SA",
+    "phone": "08 8296 7977",
     "opening_hours": [
       {
         "name": "Monday",
@@ -5052,7 +5052,7 @@
       },
       {
         "name": "Saturday",
-        "description": "10AM - 10PM",
+        "description": "6AM - 10PM",
         "isClosed": false
       },
       {
@@ -7791,7 +7791,7 @@
   {
     "name": "Unley",
     "address": "Shop T, 10 A & B, 204 Unley Road",
-    "phone": "0882719881",
+    "phone": "08 8271 9881",
     "opening_hours": [
       {
         "name": "Monday",
@@ -7820,7 +7820,7 @@
       },
       {
         "name": "Saturday",
-        "description": "10AM - 10PM",
+        "description": "6AM - 10PM",
         "isClosed": false
       },
       {
