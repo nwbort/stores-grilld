@@ -8473,57 +8473,6 @@
     "longitude": null
   },
   {
-    "name": "William Street",
-    "address": "140 William St, PERTH",
-    "phone": "(08) 6158 4871",
-    "opening_hours": [
-      {
-        "name": "Monday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Tuesday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Wednesday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Thursday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Friday",
-        "description": "10AM - 1AM",
-        "isClosed": false
-      },
-      {
-        "name": "Saturday",
-        "description": "10AM - 1AM",
-        "isClosed": false
-      },
-      {
-        "name": "Sunday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      }
-    ],
-    "url": "https://grilld.com.au/restaurants/western-australia/william-street",
-    "description": null,
-    "services": [
-      "Pick Up",
-      "Delivery",
-      "Catering"
-    ],
-    "latitude": null,
-    "longitude": null
-  },
-  {
     "name": "Windsor",
     "address": "157 Chapel St, WINDSOR, VIC",
     "phone": "03 9510 2377",
