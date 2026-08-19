@@ -401,6 +401,57 @@
     "longitude": null
   },
   {
+    "name": "Barangaroo",
+    "address": "6/25-31 Barangaroo Ave, Barangaroo",
+    "phone": "(02) 7262 0250",
+    "opening_hours": [
+      {
+        "name": "Monday",
+        "description": "10AM - 9PM",
+        "isClosed": false
+      },
+      {
+        "name": "Tuesday",
+        "description": "10AM - 9PM",
+        "isClosed": false
+      },
+      {
+        "name": "Wednesday",
+        "description": "10AM - 9PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "10AM - 9PM",
+        "isClosed": false
+      },
+      {
+        "name": "Friday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Saturday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Sunday",
+        "description": "10AM - 9PM",
+        "isClosed": false
+      }
+    ],
+    "url": "https://grilld.com.au/restaurants/new-south-wales/barangaroo",
+    "description": null,
+    "services": [
+      "Pick Up",
+      "Delivery",
+      "Catering"
+    ],
+    "latitude": null,
+    "longitude": null
+  },
+  {
     "name": "Baulkham Hills",
     "address": "Shop 1 30-32 Old Northern Road, BAULKHAM HILLS, NSW",
     "phone": "0279040633",
@@ -2007,6 +2058,19 @@
     "services": [
       "Pick Up",
       "Delivery"
+    ],
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "name": "Clayfield",
+    "address": "830 Sandgate Road, CLAYFIELD, QLD",
+    "phone": "07 3114 0003",
+    "opening_hours": [],
+    "url": "https://grilld.com.au/restaurants/queensland/clayfield",
+    "description": null,
+    "services": [
+      "Pick Up"
     ],
     "latitude": null,
     "longitude": null
@@ -5352,6 +5416,57 @@
     "longitude": null
   },
   {
+    "name": "Monash Uni Clayton",
+    "address": "28 Sports Walk, G22 & G22A, Building 90",
+    "phone": "(03) 75012700",
+    "opening_hours": [
+      {
+        "name": "Monday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Tuesday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Wednesday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Friday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Saturday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Sunday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      }
+    ],
+    "url": "https://grilld.com.au/restaurants/victoria/monash-university",
+    "description": null,
+    "services": [
+      "Pick Up",
+      "Delivery",
+      "Catering"
+    ],
+    "latitude": null,
+    "longitude": null
+  },
+  {
     "name": "Moonee Ponds",
     "address": "69 Puckle St, MOONEE PONDS, VIC",
     "phone": "03 9372 9982 ",
@@ -7768,56 +7883,6 @@
     "longitude": null
   },
   {
-    "name": "Unley",
-    "address": "Shop T, 10 A & B, 204 Unley Road",
-    "phone": "08 8271 9881",
-    "opening_hours": [
-      {
-        "name": "Monday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Tuesday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Wednesday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Thursday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Friday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Saturday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Sunday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      }
-    ],
-    "url": "https://grilld.com.au/restaurants/south-australia/unley",
-    "description": null,
-    "services": [
-      "Pick Up",
-      "Delivery"
-    ],
-    "latitude": null,
-    "longitude": null
-  },
-  {
     "name": "Upper Coomera",
     "address": "2 City Centre Dr, UPPER COOMERA, QLD",
     "phone": "(07) 5626 0019",
@@ -8468,6 +8533,57 @@
     "services": [
       "Pick Up",
       "Delivery"
+    ],
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "name": "William Street",
+    "address": "140 William St, PERTH",
+    "phone": "(08) 6158 4871",
+    "opening_hours": [
+      {
+        "name": "Monday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Tuesday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Wednesday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Friday",
+        "description": "10AM - 1AM",
+        "isClosed": false
+      },
+      {
+        "name": "Saturday",
+        "description": "10AM - 1AM",
+        "isClosed": false
+      },
+      {
+        "name": "Sunday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      }
+    ],
+    "url": "https://grilld.com.au/restaurants/western-australia/william-street",
+    "description": null,
+    "services": [
+      "Pick Up",
+      "Delivery",
+      "Catering"
     ],
     "latitude": null,
     "longitude": null
