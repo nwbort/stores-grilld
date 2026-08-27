@@ -401,6 +401,57 @@
     "longitude": null
   },
   {
+    "name": "Barangaroo",
+    "address": "6/25-31 Barangaroo Ave, Barangaroo",
+    "phone": "(02) 7262 0250",
+    "opening_hours": [
+      {
+        "name": "Monday",
+        "description": "10AM - 9PM",
+        "isClosed": false
+      },
+      {
+        "name": "Tuesday",
+        "description": "10AM - 9PM",
+        "isClosed": false
+      },
+      {
+        "name": "Wednesday",
+        "description": "10AM - 9PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "10AM - 9PM",
+        "isClosed": false
+      },
+      {
+        "name": "Friday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Saturday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Sunday",
+        "description": "10AM - 9PM",
+        "isClosed": false
+      }
+    ],
+    "url": "https://grilld.com.au/restaurants/new-south-wales/barangaroo",
+    "description": null,
+    "services": [
+      "Pick Up",
+      "Delivery",
+      "Catering"
+    ],
+    "latitude": null,
+    "longitude": null
+  },
+  {
     "name": "Baulkham Hills",
     "address": "Shop 1 30-32 Old Northern Road, BAULKHAM HILLS, NSW",
     "phone": "0279040633",
@@ -578,7 +629,7 @@
       },
       {
         "name": "Friday",
-        "description": "10AM - 10PM",
+        "description": "10AM - 9PM",
         "isClosed": false
       },
       {
@@ -3727,7 +3778,7 @@
       },
       {
         "name": "Friday",
-        "description": "10AM - 10PM",
+        "description": "10AM - 9PM",
         "isClosed": false
       },
       {
@@ -6143,7 +6194,7 @@
       },
       {
         "name": "Friday",
-        "description": "10AM - 10PM",
+        "description": "10AM - 9PM",
         "isClosed": false
       },
       {
@@ -6444,7 +6495,7 @@
       },
       {
         "name": "Friday",
-        "description": "10AM - 10PM",
+        "description": "10AM - 9PM",
         "isClosed": false
       },
       {
@@ -7253,7 +7304,7 @@
       },
       {
         "name": "Friday",
-        "description": "10AM - 1AM",
+        "description": "10AM - 11PM",
         "isClosed": false
       },
       {
@@ -7908,7 +7959,7 @@
       },
       {
         "name": "Friday",
-        "description": "10AM - 10PM",
+        "description": "10AM - 9PM",
         "isClosed": false
       },
       {
