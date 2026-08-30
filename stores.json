@@ -629,7 +629,7 @@
       },
       {
         "name": "Friday",
-        "description": "10AM - 9PM",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
@@ -3763,7 +3763,7 @@
       },
       {
         "name": "Friday",
-        "description": "10AM - 9PM",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
@@ -6179,7 +6179,7 @@
       },
       {
         "name": "Friday",
-        "description": "10AM - 9PM",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
@@ -6480,7 +6480,7 @@
       },
       {
         "name": "Friday",
-        "description": "10AM - 9PM",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
@@ -7289,7 +7289,7 @@
       },
       {
         "name": "Friday",
-        "description": "10AM - 11PM",
+        "description": "10AM - 1AM",
         "isClosed": false
       },
       {
@@ -7944,7 +7944,7 @@
       },
       {
         "name": "Friday",
-        "description": "10AM - 9PM",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
@@ -8619,56 +8619,6 @@
       "Pick Up",
       "Delivery",
       "Catering"
-    ],
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "name": "Windsor",
-    "address": "157 Chapel St, WINDSOR, VIC",
-    "phone": "03 9510 2377",
-    "opening_hours": [
-      {
-        "name": "Monday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Tuesday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Wednesday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Thursday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Friday",
-        "description": "10AM - 11PM",
-        "isClosed": false
-      },
-      {
-        "name": "Saturday",
-        "description": "10AM - 11PM",
-        "isClosed": false
-      },
-      {
-        "name": "Sunday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      }
-    ],
-    "url": "https://grilld.com.au/restaurants/victoria/windsor",
-    "description": null,
-    "services": [
-      "Pick Up",
-      "Delivery"
     ],
     "latitude": null,
     "longitude": null
