@@ -5469,55 +5469,6 @@
     "longitude": null
   },
   {
-    "name": "Moonee Ponds",
-    "address": "69 Puckle St, MOONEE PONDS, VIC",
-    "phone": "03 9372 9982 ",
-    "opening_hours": [
-      {
-        "name": "Monday",
-        "description": "11AM - 9PM",
-        "isClosed": false
-      },
-      {
-        "name": "Tuesday",
-        "description": "4PM - 9PM",
-        "isClosed": false
-      },
-      {
-        "name": "Wednesday",
-        "description": "11AM - 9PM",
-        "isClosed": false
-      },
-      {
-        "name": "Thursday",
-        "description": "11AM - 9PM",
-        "isClosed": false
-      },
-      {
-        "name": "Friday",
-        "description": "11AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Saturday",
-        "description": "11AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Sunday",
-        "description": "11AM - 9PM",
-        "isClosed": false
-      }
-    ],
-    "url": "https://grilld.com.au/restaurants/victoria/moonee-ponds",
-    "description": null,
-    "services": [
-      "Pick Up"
-    ],
-    "latitude": null,
-    "longitude": null
-  },
-  {
     "name": "Mornington",
     "address": "18a Main Street, MORNINGTON, VIC",
     "phone": "(03) 5972 2600",
@@ -6778,57 +6729,6 @@
       }
     ],
     "url": "https://grilld.com.au/restaurants/western-australia/scarborough",
-    "description": null,
-    "services": [
-      "Pick Up",
-      "Delivery",
-      "Catering"
-    ],
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "name": "Shellharbour",
-    "address": "2021a/211 Lake Entrance Rd, SHELLHARBOUR, NSW",
-    "phone": "02 4295 6444",
-    "opening_hours": [
-      {
-        "name": "Monday",
-        "description": "10AM - 9PM",
-        "isClosed": false
-      },
-      {
-        "name": "Tuesday",
-        "description": "10AM - 9PM",
-        "isClosed": false
-      },
-      {
-        "name": "Wednesday",
-        "description": "10AM - 9PM",
-        "isClosed": false
-      },
-      {
-        "name": "Thursday",
-        "description": "10AM - 9PM",
-        "isClosed": false
-      },
-      {
-        "name": "Friday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Saturday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Sunday",
-        "description": "10AM - 9PM",
-        "isClosed": false
-      }
-    ],
-    "url": "https://grilld.com.au/restaurants/new-south-wales/shellharbour",
     "description": null,
     "services": [
       "Pick Up",
@@ -8506,43 +8406,7 @@
     "name": "Westfield Sydney",
     "address": "Westfield Sydney, Level 6, 188 Pitt St",
     "phone": "02 9223 7474",
-    "opening_hours": [
-      {
-        "name": "Monday",
-        "description": "11AM - 9PM",
-        "isClosed": false
-      },
-      {
-        "name": "Tuesday",
-        "description": "11AM - 9PM",
-        "isClosed": false
-      },
-      {
-        "name": "Wednesday",
-        "description": "11AM - 9PM",
-        "isClosed": false
-      },
-      {
-        "name": "Thursday",
-        "description": "11AM - 9PM",
-        "isClosed": false
-      },
-      {
-        "name": "Friday",
-        "description": "11AM - 9PM",
-        "isClosed": false
-      },
-      {
-        "name": "Saturday",
-        "description": "11AM - 9PM",
-        "isClosed": false
-      },
-      {
-        "name": "Sunday",
-        "description": "11AM - 9PM",
-        "isClosed": false
-      }
-    ],
+    "opening_hours": [],
     "url": "https://grilld.com.au/restaurants/new-south-wales/westfield-sydney",
     "description": null,
     "services": [
