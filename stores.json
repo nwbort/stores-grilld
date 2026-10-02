@@ -2178,56 +2178,6 @@
     "longitude": null
   },
   {
-    "name": "Collingwood",
-    "address": "230 Smith St, COLLINGWOOD, VIC",
-    "phone": "03 9419 3332",
-    "opening_hours": [
-      {
-        "name": "Monday",
-        "description": "11AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Tuesday",
-        "description": "11AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Wednesday",
-        "description": "11AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Thursday",
-        "description": "11AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Friday",
-        "description": "11AM - 11PM",
-        "isClosed": false
-      },
-      {
-        "name": "Saturday",
-        "description": "11AM - 11PM",
-        "isClosed": false
-      },
-      {
-        "name": "Sunday",
-        "description": "11AM - 10PM",
-        "isClosed": false
-      }
-    ],
-    "url": "https://grilld.com.au/restaurants/victoria/collingwood",
-    "description": null,
-    "services": [
-      "Pick Up",
-      "Delivery"
-    ],
-    "latitude": null,
-    "longitude": null
-  },
-  {
     "name": "Coolangatta",
     "address": "Shop 23 Showcase on the Beach, 72/80 Marine Pde, COOLANGATTA",
     "phone": "07 5536 3555",
@@ -3437,7 +3387,13 @@
     "name": "Galeries",
     "address": "The Galeries, 500 George St, SYDNEY",
     "phone": "02 9264 9566",
-    "opening_hours": [],
+    "opening_hours": [
+      {
+        "name": "Thursday",
+        "description": "11AM - 10PM",
+        "isClosed": false
+      }
+    ],
     "url": "https://grilld.com.au/restaurants/new-south-wales/galeries",
     "description": null,
     "services": [
@@ -5469,6 +5425,55 @@
     "longitude": null
   },
   {
+    "name": "Moonee Ponds",
+    "address": "69 Puckle St, MOONEE PONDS, VIC",
+    "phone": "03 9372 9982 ",
+    "opening_hours": [
+      {
+        "name": "Monday",
+        "description": "11AM - 9PM",
+        "isClosed": false
+      },
+      {
+        "name": "Tuesday",
+        "description": "4PM - 9PM",
+        "isClosed": false
+      },
+      {
+        "name": "Wednesday",
+        "description": "11AM - 9PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "11AM - 9PM",
+        "isClosed": false
+      },
+      {
+        "name": "Friday",
+        "description": "11AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Saturday",
+        "description": "11AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Sunday",
+        "description": "11AM - 9PM",
+        "isClosed": false
+      }
+    ],
+    "url": "https://grilld.com.au/restaurants/victoria/moonee-ponds",
+    "description": null,
+    "services": [
+      "Pick Up"
+    ],
+    "latitude": null,
+    "longitude": null
+  },
+  {
     "name": "Mornington",
     "address": "18a Main Street, MORNINGTON, VIC",
     "phone": "(03) 5972 2600",
@@ -6729,6 +6734,57 @@
       }
     ],
     "url": "https://grilld.com.au/restaurants/western-australia/scarborough",
+    "description": null,
+    "services": [
+      "Pick Up",
+      "Delivery",
+      "Catering"
+    ],
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "name": "Shellharbour",
+    "address": "2021a/211 Lake Entrance Rd, SHELLHARBOUR, NSW",
+    "phone": "02 4295 6444",
+    "opening_hours": [
+      {
+        "name": "Monday",
+        "description": "10AM - 9PM",
+        "isClosed": false
+      },
+      {
+        "name": "Tuesday",
+        "description": "10AM - 9PM",
+        "isClosed": false
+      },
+      {
+        "name": "Wednesday",
+        "description": "10AM - 9PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "10AM - 9PM",
+        "isClosed": false
+      },
+      {
+        "name": "Friday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Saturday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Sunday",
+        "description": "10AM - 9PM",
+        "isClosed": false
+      }
+    ],
+    "url": "https://grilld.com.au/restaurants/new-south-wales/shellharbour",
     "description": null,
     "services": [
       "Pick Up",
