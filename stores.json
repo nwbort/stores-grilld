@@ -2178,6 +2178,56 @@
     "longitude": null
   },
   {
+    "name": "Collingwood",
+    "address": "230 Smith St, COLLINGWOOD, VIC",
+    "phone": "03 9419 3332",
+    "opening_hours": [
+      {
+        "name": "Monday",
+        "description": "11AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Tuesday",
+        "description": "11AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Wednesday",
+        "description": "11AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "11AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Friday",
+        "description": "11AM - 11PM",
+        "isClosed": false
+      },
+      {
+        "name": "Saturday",
+        "description": "11AM - 11PM",
+        "isClosed": false
+      },
+      {
+        "name": "Sunday",
+        "description": "11AM - 10PM",
+        "isClosed": false
+      }
+    ],
+    "url": "https://grilld.com.au/restaurants/victoria/collingwood",
+    "description": null,
+    "services": [
+      "Pick Up",
+      "Delivery"
+    ],
+    "latitude": null,
+    "longitude": null
+  },
+  {
     "name": "Coolangatta",
     "address": "Shop 23 Showcase on the Beach, 72/80 Marine Pde, COOLANGATTA",
     "phone": "07 5536 3555",
@@ -7291,57 +7341,6 @@
       }
     ],
     "url": "https://grilld.com.au/restaurants/queensland/surfers-paradise",
-    "description": null,
-    "services": [
-      "Pick Up",
-      "Delivery",
-      "Catering"
-    ],
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "name": "Swanston Street",
-    "address": "107-109 Swanston St, MELBOURNE, VIC",
-    "phone": "0370719090",
-    "opening_hours": [
-      {
-        "name": "Monday",
-        "description": "10AM - 11PM",
-        "isClosed": false
-      },
-      {
-        "name": "Tuesday",
-        "description": "10AM - 11PM",
-        "isClosed": false
-      },
-      {
-        "name": "Wednesday",
-        "description": "10AM - 11PM",
-        "isClosed": false
-      },
-      {
-        "name": "Thursday",
-        "description": "10AM - 11PM",
-        "isClosed": false
-      },
-      {
-        "name": "Friday",
-        "description": "10AM - 2AM",
-        "isClosed": false
-      },
-      {
-        "name": "Saturday",
-        "description": "10AM - 2AM",
-        "isClosed": false
-      },
-      {
-        "name": "Sunday",
-        "description": "10AM - 11PM",
-        "isClosed": false
-      }
-    ],
-    "url": "https://grilld.com.au/restaurants/victoria/swanston-street",
     "description": null,
     "services": [
       "Pick Up",
