@@ -609,7 +609,7 @@
     "opening_hours": [
       {
         "name": "Monday",
-        "description": "10AM - 10PM",
+        "description": "10AM - 8PM",
         "isClosed": false
       },
       {
@@ -1162,7 +1162,7 @@
     "opening_hours": [
       {
         "name": "Monday",
-        "description": "10AM - 9PM",
+        "description": "10AM - 8PM",
         "isClosed": false
       },
       {
@@ -3766,7 +3766,7 @@
     "opening_hours": [
       {
         "name": "Monday",
-        "description": "10AM - 10PM",
+        "description": "10AM - 9PM",
         "isClosed": false
       },
       {
@@ -5524,6 +5524,56 @@
     "longitude": null
   },
   {
+    "name": "Mornington",
+    "address": "18a Main Street, MORNINGTON, VIC",
+    "phone": "(03) 5972 2600",
+    "opening_hours": [
+      {
+        "name": "Monday",
+        "description": "11AM - 9PM",
+        "isClosed": false
+      },
+      {
+        "name": "Tuesday",
+        "description": "11AM - 9PM",
+        "isClosed": false
+      },
+      {
+        "name": "Wednesday",
+        "description": "11AM - 9PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "11AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Friday",
+        "description": "11AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Saturday",
+        "description": "11AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Sunday",
+        "description": "11AM - 9PM",
+        "isClosed": false
+      }
+    ],
+    "url": "https://grilld.com.au/restaurants/victoria/mornington",
+    "description": null,
+    "services": [
+      "Pick Up",
+      "Delivery"
+    ],
+    "latitude": null,
+    "longitude": null
+  },
+  {
     "name": "Mt Lawley",
     "address": "669 Beaufort St, MOUNT LAWLEY, WA",
     "phone": "08 9271 9444",
@@ -6182,7 +6232,7 @@
     "opening_hours": [
       {
         "name": "Monday",
-        "description": "10AM - 9PM",
+        "description": "10AM - 8PM",
         "isClosed": false
       },
       {
@@ -6447,7 +6497,7 @@
     "opening_hours": [
       {
         "name": "Monday",
-        "description": "10AM - 10PM",
+        "description": "10AM - 8PM",
         "isClosed": false
       },
       {
@@ -7256,7 +7306,7 @@
     "opening_hours": [
       {
         "name": "Monday",
-        "description": "10AM - 11PM",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
@@ -7811,7 +7861,7 @@
     "opening_hours": [
       {
         "name": "Monday",
-        "description": "10AM - 10PM",
+        "description": "10AM - 8PM",
         "isClosed": false
       },
       {
@@ -7911,7 +7961,7 @@
     "opening_hours": [
       {
         "name": "Monday",
-        "description": "10AM - 10PM",
+        "description": "10AM - 8PM",
         "isClosed": false
       },
       {
