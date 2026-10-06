@@ -609,7 +609,7 @@
     "opening_hours": [
       {
         "name": "Monday",
-        "description": "10AM - 8PM",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
@@ -1162,7 +1162,7 @@
     "opening_hours": [
       {
         "name": "Monday",
-        "description": "10AM - 8PM",
+        "description": "10AM - 9PM",
         "isClosed": false
       },
       {
@@ -3439,7 +3439,27 @@
     "phone": "02 9264 9566",
     "opening_hours": [
       {
+        "name": "Monday",
+        "description": "11AM - 10PM",
+        "isClosed": false
+      },
+      {
         "name": "Thursday",
+        "description": "11AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Friday",
+        "description": "11AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Saturday",
+        "description": "11AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Sunday",
         "description": "11AM - 10PM",
         "isClosed": false
       }
@@ -3766,7 +3786,7 @@
     "opening_hours": [
       {
         "name": "Monday",
-        "description": "10AM - 9PM",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
@@ -6232,7 +6252,7 @@
     "opening_hours": [
       {
         "name": "Monday",
-        "description": "10AM - 8PM",
+        "description": "10AM - 9PM",
         "isClosed": false
       },
       {
@@ -6497,7 +6517,7 @@
     "opening_hours": [
       {
         "name": "Monday",
-        "description": "10AM - 8PM",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
@@ -7306,7 +7326,7 @@
     "opening_hours": [
       {
         "name": "Monday",
-        "description": "10AM - 10PM",
+        "description": "10AM - 11PM",
         "isClosed": false
       },
       {
@@ -7861,7 +7881,7 @@
     "opening_hours": [
       {
         "name": "Monday",
-        "description": "10AM - 8PM",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
@@ -7961,7 +7981,7 @@
     "opening_hours": [
       {
         "name": "Monday",
-        "description": "10AM - 8PM",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
@@ -8499,21 +8519,6 @@
       }
     ],
     "url": "https://grilld.com.au/restaurants/new-south-wales/westfield-parramatta",
-    "description": null,
-    "services": [
-      "Pick Up",
-      "Delivery",
-      "Catering"
-    ],
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "name": "Westfield Sydney",
-    "address": "Westfield Sydney, Level 6, 188 Pitt St",
-    "phone": "02 9223 7474",
-    "opening_hours": [],
-    "url": "https://grilld.com.au/restaurants/new-south-wales/westfield-sydney",
     "description": null,
     "services": [
       "Pick Up",
