@@ -3443,6 +3443,16 @@
         "isClosed": false
       },
       {
+        "name": "Tuesday",
+        "description": "11AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Wednesday",
+        "description": "11AM - 10PM",
+        "isClosed": false
+      },
+      {
         "name": "Thursday",
         "description": "11AM - 10PM",
         "isClosed": false
@@ -6312,13 +6322,18 @@
         "isClosed": false
       },
       {
+        "name": "Thursday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
         "name": "Saturday",
-        "description": "10AM - 9PM",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
         "name": "Sunday",
-        "description": "10AM - 9PM",
+        "description": "10AM - 10PM",
         "isClosed": false
       }
     ],
