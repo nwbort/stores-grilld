@@ -5746,7 +5746,8 @@
     "url": "https://grilld.com.au/restaurants/victoria/murrumbeena",
     "description": null,
     "services": [
-      "Pick Up"
+      "Pick Up",
+      "Delivery"
     ],
     "latitude": null,
     "longitude": null
