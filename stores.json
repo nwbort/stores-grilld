@@ -6406,13 +6406,7 @@
     "name": "Plenty Valley",
     "address": "Shop R3/415 McDonalds Rd, Mill Park, VIC",
     "phone": "+61383965820",
-    "opening_hours": [
-      {
-        "name": "Sunday",
-        "description": "10AM - 10PM",
-        "isClosed": false
-      }
-    ],
+    "opening_hours": [],
     "url": "https://grilld.com.au/restaurants/victoria/plenty-valley",
     "description": null,
     "services": [
