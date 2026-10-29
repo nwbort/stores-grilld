@@ -51,6 +51,56 @@
     "longitude": null
   },
   {
+    "name": "Altona North",
+    "address": "290-298 Millers Rd, Altona North, VIC",
+    "phone": "+61370393666",
+    "opening_hours": [
+      {
+        "name": "Monday",
+        "description": "10AM - 11PM",
+        "isClosed": false
+      },
+      {
+        "name": "Tuesday",
+        "description": "10AM - 11PM",
+        "isClosed": false
+      },
+      {
+        "name": "Wednesday",
+        "description": "10AM - 11PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "10AM - 11PM",
+        "isClosed": false
+      },
+      {
+        "name": "Friday",
+        "description": "10AM - 1AM",
+        "isClosed": false
+      },
+      {
+        "name": "Saturday",
+        "description": "10AM - 1AM",
+        "isClosed": false
+      },
+      {
+        "name": "Sunday",
+        "description": "10AM - 11PM",
+        "isClosed": false
+      }
+    ],
+    "url": "https://grilld.com.au/restaurants/victoria/altona-north",
+    "description": null,
+    "services": [
+      "Pick Up",
+      "Delivery"
+    ],
+    "latitude": null,
+    "longitude": null
+  },
+  {
     "name": "Applecross",
     "address": "18 Riseley St, Ardross, WA",
     "phone": "+61893163500",
@@ -6848,6 +6898,57 @@
       }
     ],
     "url": "https://grilld.com.au/restaurants/new-south-wales/shellharbour",
+    "description": null,
+    "services": [
+      "Pick Up",
+      "Delivery",
+      "Catering"
+    ],
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "name": "South Bank",
+    "address": "Shop 3, 167 Grey St, South Brisbane",
+    "phone": "+61738444700",
+    "opening_hours": [
+      {
+        "name": "Monday",
+        "description": "10AM - 11PM",
+        "isClosed": false
+      },
+      {
+        "name": "Tuesday",
+        "description": "10AM - 11PM",
+        "isClosed": false
+      },
+      {
+        "name": "Wednesday",
+        "description": "10AM - 11PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "10AM - 11PM",
+        "isClosed": false
+      },
+      {
+        "name": "Friday",
+        "description": "10AM - 1AM",
+        "isClosed": false
+      },
+      {
+        "name": "Saturday",
+        "description": "10AM - 1AM",
+        "isClosed": false
+      },
+      {
+        "name": "Sunday",
+        "description": "10AM - 11PM",
+        "isClosed": false
+      }
+    ],
+    "url": "https://grilld.com.au/restaurants/queensland/south-bank",
     "description": null,
     "services": [
       "Pick Up",
