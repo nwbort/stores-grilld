@@ -8412,7 +8412,18 @@
     "name": "Waurn Ponds",
     "address": "Store 961 Waurn Ponds Shopping Centre, Colac Rd, Grovedale",
     "phone": "+61352413322",
-    "opening_hours": [],
+    "opening_hours": [
+      {
+        "name": "Saturday",
+        "description": "10AM - 9PM",
+        "isClosed": false
+      },
+      {
+        "name": "Sunday",
+        "description": "10AM - 9PM",
+        "isClosed": false
+      }
+    ],
     "url": "https://grilld.com.au/restaurants/victoria/waurn-ponds",
     "description": null,
     "services": [
