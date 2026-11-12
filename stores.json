@@ -1199,7 +1199,8 @@
     "description": null,
     "services": [
       "Pick Up",
-      "Delivery"
+      "Delivery",
+      "Catering"
     ],
     "latitude": null,
     "longitude": null
@@ -5891,7 +5892,33 @@
     "name": "Narre Warren",
     "address": "64 - 86 Narre Warren North Rd, Narre Warren, VIC",
     "phone": "+61387509111",
-    "opening_hours": [],
+    "opening_hours": [
+      {
+        "name": "Monday",
+        "description": "10AM - 11PM",
+        "isClosed": false
+      },
+      {
+        "name": "Tuesday",
+        "description": "10AM - 11PM",
+        "isClosed": false
+      },
+      {
+        "name": "Wednesday",
+        "description": "10AM - 11PM",
+        "isClosed": false
+      },
+      {
+        "name": "Saturday",
+        "description": "10AM - 11PM",
+        "isClosed": false
+      },
+      {
+        "name": "Sunday",
+        "description": "10AM - 11PM",
+        "isClosed": false
+      }
+    ],
     "url": "https://grilld.com.au/restaurants/victoria/narre-warren",
     "description": null,
     "services": [],
