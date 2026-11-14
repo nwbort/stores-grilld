@@ -5909,19 +5909,31 @@
         "isClosed": false
       },
       {
-        "name": "Saturday",
+        "name": "Thursday",
         "description": "10AM - 11PM",
         "isClosed": false
       },
       {
-        "name": "Sunday",
+        "name": "Friday",
         "description": "10AM - 11PM",
+        "isClosed": false
+      },
+      {
+        "name": "Saturday",
+        "description": "10AM - 9PM",
+        "isClosed": false
+      },
+      {
+        "name": "Sunday",
+        "description": "10AM - 9PM",
         "isClosed": false
       }
     ],
     "url": "https://grilld.com.au/restaurants/victoria/narre-warren",
     "description": null,
-    "services": [],
+    "services": [
+      "Pick Up"
+    ],
     "latitude": null,
     "longitude": null
   },
