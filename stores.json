@@ -2601,7 +2601,7 @@
       },
       {
         "name": "Sunday",
-        "description": "10AM - 11PM",
+        "description": "10AM - 10PM",
         "isClosed": false
       }
     ],
@@ -3504,7 +3504,7 @@
       },
       {
         "name": "Sunday",
-        "description": "7AM - 11PM",
+        "description": "10AM - 11PM",
         "isClosed": false
       }
     ],
@@ -5102,7 +5102,7 @@
       },
       {
         "name": "Wednesday",
-        "description": "10AM - 9PM",
+        "description": "10AM - 8PM",
         "isClosed": false
       },
       {
@@ -5942,16 +5942,6 @@
     "address": "24 Grosvenor St, Neutral BAY, NSW",
     "phone": "+61289696277",
     "opening_hours": [
-      {
-        "name": "Monday",
-        "description": "11AM - 10PM",
-        "isClosed": false
-      },
-      {
-        "name": "Tuesday",
-        "description": "11AM - 10PM",
-        "isClosed": false
-      },
       {
         "name": "Wednesday",
         "description": "11AM - 10PM",
