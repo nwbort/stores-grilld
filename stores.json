@@ -6128,7 +6128,7 @@
       },
       {
         "name": "Thursday",
-        "description": "10AM - 11PM",
+        "description": "10AM - 10PM",
         "isClosed": false
       },
       {
@@ -6138,7 +6138,7 @@
       },
       {
         "name": "Saturday",
-        "description": "10AM - 10PM",
+        "description": "10AM - 11PM",
         "isClosed": false
       },
       {
