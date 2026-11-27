@@ -909,7 +909,32 @@
     "phone": "+61738094681",
     "opening_hours": [
       {
+        "name": "Monday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Tuesday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Wednesday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
         "name": "Saturday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Sunday",
         "description": "10AM - 10PM",
         "isClosed": false
       }
@@ -1976,6 +2001,50 @@
     "services": [
       "Pick Up",
       "Delivery"
+    ],
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "name": "Chermside Drive Thru",
+    "address": "1080 Gympie Road, Chermside, QLD",
+    "phone": "+61731103999",
+    "opening_hours": [
+      {
+        "name": "Monday",
+        "description": "10AM - 11PM",
+        "isClosed": false
+      },
+      {
+        "name": "Tuesday",
+        "description": "10AM - 11PM",
+        "isClosed": false
+      },
+      {
+        "name": "Wednesday",
+        "description": "10AM - 11PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "10AM - 1AM",
+        "isClosed": false
+      },
+      {
+        "name": "Saturday",
+        "description": "10AM - 9PM",
+        "isClosed": false
+      },
+      {
+        "name": "Sunday",
+        "description": "10AM - 9PM",
+        "isClosed": false
+      }
+    ],
+    "url": "https://grilld.com.au/restaurants/queensland/chermside-drive-thru",
+    "description": null,
+    "services": [
+      "Pick Up"
     ],
     "latitude": null,
     "longitude": null
@@ -5859,7 +5928,7 @@
   },
   {
     "name": "Narre Warren",
-    "address": "64 - 86 Narre Warren North Rd, Narre Warren, VIC",
+    "address": "64 - 68 Narre Warren North Rd, Narre Warren, VIC",
     "phone": "+61387509111",
     "opening_hours": [
       {
@@ -8620,6 +8689,56 @@
       "Pick Up",
       "Delivery",
       "Catering"
+    ],
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "name": "Whitford City",
+    "address": "Shop 315 Westfield Whitford City, Cnr Marmion Ave & Whitfords Ave, Hillarys",
+    "phone": "+61894017941",
+    "opening_hours": [
+      {
+        "name": "Monday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Tuesday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Wednesday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Thursday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Friday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Saturday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      },
+      {
+        "name": "Sunday",
+        "description": "10AM - 10PM",
+        "isClosed": false
+      }
+    ],
+    "url": "https://grilld.com.au/restaurants/western-australia/whitford-city",
+    "description": null,
+    "services": [
+      "Pick Up",
+      "Delivery"
     ],
     "latitude": null,
     "longitude": null
